@@ -19,7 +19,7 @@ package linkedlist;
  * Spcace Complexity:
  *
  */
-public class _19_RemoveNthNodeFromEndOfList {
+public class _019_RemoveNthNodeFromEndOfList {
 	public ListNode removeNthFromEnd(ListNode head, int n) {
 		ListNode left = head;
 		ListNode right = head;

@@ -15,7 +15,7 @@ package linkedlist;
  *
  * Space Complexity:
  */
-public class _61_RotateList {
+public class _061_RotateList {
 	public ListNode rotateRight(ListNode head, int k) {
 		if (head == null || k == 0) {
 			return head;

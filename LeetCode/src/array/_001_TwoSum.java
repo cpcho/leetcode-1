@@ -20,7 +20,7 @@ return [0, 1].
  *
  * Space Complexity:
  */
-public class _1_TwoSum {
+public class _001_TwoSum {
 	public int[] twoSum(int[] nums, int target) {
 		int[] res = new int[2];
 		Map<Integer, Integer> map = new HashMap<>();

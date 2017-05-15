@@ -16,7 +16,7 @@ Your algorithm should use only constant space. You may not modify the values in 
  * Spcace Complexity: 
  *
  */
-public class _24_SwapNodesInPairs {
+public class _024_SwapNodesInPairs {
 	public ListNode swapPairs(ListNode head) {
 		ListNode dummy = new ListNode(0);
 		dummy.next = head;

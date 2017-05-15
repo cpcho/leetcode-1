@@ -13,7 +13,7 @@ package linkedlist;
  * Spcace Complexity: 
  *
  */
-public class _21_MergeTwoSortedLinkedList {
+public class _021_MergeTwoSortedLinkedList {
 	public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 		ListNode dummy = new ListNode(0);
 		ListNode cur = dummy;

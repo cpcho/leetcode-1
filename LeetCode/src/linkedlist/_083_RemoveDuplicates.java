@@ -14,7 +14,7 @@ Given 1->1->2->3->3, return 1->2->3.
  * Spcace Complexity: 
  *
  */
-public class _83_RemoveDuplicates {
+public class _083_RemoveDuplicates {
 	public ListNode deleteDuplicates(ListNode head) {
 		if (head == null || head.next == null)
 			return head;
