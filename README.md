@@ -2,6 +2,16 @@
 The accepted Java solutions and explanations to the leetcode algorithm.
 381/543 Solved.
 
+## Table of Contents
+
+* [Array](#array)
+* [BFS](#bfs)
+* [DFS](#dfs)
+* [Hash Table](#hash-table)
+* [LinkedList](#linkedlist)
+* [Sort](#sort)
+
+
 ## Array
 
 | # | Title | Solution | Difficulty |
