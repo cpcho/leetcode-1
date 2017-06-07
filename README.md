@@ -1,6 +1,6 @@
 # LeetCode
-The accepted Java solutions and explanations to the leetcode algorithm.
-381/543 Solved.
+The accepted Java solutions and explanations to the leetcode algorithm. <br />
+**381/543** Solved.
 
 ## Table of Contents
 
