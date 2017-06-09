@@ -1,6 +1,11 @@
+.DS_Store
 
 LeetCode/.settings/org.eclipse.jdt.core.prefs
 
 LeetCode/.classpath
 
 LeetCode/.project
+
+LeetCode/.DS_Store
+
+LeetCode/bin/
