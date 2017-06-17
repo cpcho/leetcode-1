@@ -41,9 +41,14 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|101|[Sysmmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./LeetCode/src/dfs/_101_SysmmetricTree.java)|Easy|
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./LeetCode/src/dfs/_111_MinimumDepthofBinaryTree.java)|Easy|
-
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](./LeetCode/src/dfs/_039_CombinationSum.java)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](./LeetCode/src/dfs/_040_CombinationSumII.java)|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/) | [Java](./LeetCode/src/dfs/_077_Combinations.java)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [Java](./LeetCode/src/dfs/_078_Subsets.java)|Medium|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [Java](./LeetCode/src/dfs/_090_SubsetsII.java)|Medium|
+|101|[Sysmmetric Tree](http) | [Java](./LeetCode/src/dfs/_101_SysmmetricTree.java)|Easy|
+|111|[Minimum Depth of Binary Tree](htt) | [Java](./LeetCode/src/dfs/_111_MinimumDepthofBinaryTree.java)|Easy|
+|216|[CombinationSum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./LeetCode/src/dfs/_216_CombinationSumIII.java)|Medium|
 
 ## Hash Table
 
