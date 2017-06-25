@@ -1,6 +1,5 @@
-# LeetCode
+# LeetCode ![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-383%20%2F%20551-green.svg)
 The accepted Java solutions and explanations to the leetcode algorithm. <br />
-**381/543** Solved.
 
 ## Table of Contents
 
@@ -10,7 +9,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * [Hash Table](#hash-table)
 * [LinkedList](#linkedlist)
 * [Sort](#sort)
-
+* [Two Pointers](#two-pointers)
 
 ## Array
 
