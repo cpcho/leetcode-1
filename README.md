@@ -4,15 +4,16 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 ## Table of Contents
 
-* [Array](#array)
-* [BFS](#bfs)
-* [DFS](#dfs)
-* [Hash Table](#hash-table)
-* [LinkedList](#linkedlist)
-* [Sort](#sort)
-* [Two Pointers](#two-pointers)
+* **[Array](#array)**
+* **[BFS](#bfs)**
+* **[Bit Manipulation](#bit-manipulation)**
+* **[DFS](#dfs)**
+* **[Hash Table](#hash-table)**
+* **[LinkedList](#linkedlist)**
+* **[Sort](#sort)**
+* **[Two Pointers](#two-pointers)**
 
-## Array
+### Array
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -20,7 +21,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./LeetCode/src/array/_628_MaximumProductOfThreeNumbers.java)|Easy|
 
 
-## BFS
+### BFS
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -39,7 +40,18 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./LeetCode/src/bfs/_513_FindBottomLeftTreeValue.java)|Medium|
 |515|[FindLargestValueinEachTreeRow](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./LeetCode/src/bfs/_515_FindLargestValueinEachTreeRow.java)|Medium|
 
-## DFS
+### Bit Manipulation
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [Java](./LeetCode/src/bitManipulation/_136_SingleNumber.java)|Easy|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./LeetCode/src/bitManipulation/_338_CountingBits.java)|Medium|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./LeetCode/src/bitManipulation/_371_SumOfTwoIntegers.java)|Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./LeetCode/src/bitManipulation/_389_FindTheDifference.java)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./LeetCode/src/bitManipulation/_461_HammingDistance.java)|Easy|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./LeetCode/src/bitManipulation/_476_NumberComplement.java)|Easy|
+
+### DFS
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -52,7 +64,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |111|[Minimum Depth of Binary Tree](htt) | [Java](./LeetCode/src/dfs/_111_MinimumDepthofBinaryTree.java)|Easy|
 |216|[CombinationSum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./LeetCode/src/dfs/_216_CombinationSumIII.java)|Medium|
 
-## Hash Table
+### Hash Table
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -60,7 +72,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/hashTable/_350_IntersectionOfTwoArraysII.java)|Easy|
 
 
-## LinkedList
+### LinkedList
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -87,14 +99,14 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./LeetCode/src/linkedlist/_328_OddEvenLinkedList.java)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./LeetCode/src/linkedlist/_445_AddTwoNumbersII.java)|Medium|
 
-## Sort
+### Sort
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](./LeetCode/src/sort/_075_SortColors.java)|Medium|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) | [Java](./LeetCode/src/sort/_524_Longest_WordInDictionarytTroughDeleting.java)|Medium|
 
-## Two Pointers
+### Two Pointers
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
