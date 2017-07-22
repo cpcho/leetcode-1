@@ -19,7 +19,7 @@ package bitManipulation;
  * 10^9 Length of the array will not exceed 10^4.
  *
  */
-public class _447_TotalHammingDistance {
+public class _477_TotalHammingDistance {
 	public int totalHammingDistance(int[] nums) {
 		int res = 0;
 		int bitCount;
