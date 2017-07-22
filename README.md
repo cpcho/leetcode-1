@@ -45,11 +45,23 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Java](./LeetCode/src/bitManipulation/_136_SingleNumber.java)|Easy|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [Java](./LeetCode/src/bitManipulation/_137_SingleNumberII.java)|Medium|
+|190|[Reverse Bit](https://leetcode.com/problems/reverse-bits/) | [Java](./LeetCode/src/bitManipulation/_190_ReverseBit.java)|Easy|
+|191|[Number of Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](./LeetCode/src/bitManipulation/_191_NumberOfBits.java)|Easy|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Java](./LeetCode/src/bitManipulation/_201_BitwiseANDOfNumbersRange.java)|Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./LeetCode/src/bitManipulation/_231_PowerOfTwo.java)|Easy|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/) | [Java](./LeetCode/src/bitManipulation/_260_SingleNumberIII.java)|Medium|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Java](./LeetCode/src/bitManipulation/_318_MaximumProductOfWordLengths.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./LeetCode/src/bitManipulation/_338_CountingBits.java)|Medium|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./LeetCode/src/bitManipulation/_342_PowerOfFour.java)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./LeetCode/src/bitManipulation/_371_SumOfTwoIntegers.java)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./LeetCode/src/bitManipulation/_389_FindTheDifference.java)|Easy|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Java](./LeetCode/src/bitManipulation/_397_IntegerReplacement.java)|Medium|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](./LeetCode/src/bitManipulation/_401_BinaryWatch.java)|Easy|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](./LeetCode/src/bitManipulation/_405_ConvertANumberToHexadecimal.java)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./LeetCode/src/bitManipulation/_461_HammingDistance.java)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./LeetCode/src/bitManipulation/_476_NumberComplement.java)|Easy|
+|477|[Total Hamming Distance](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](./LeetCode/src/bitManipulation/_447_TotalHammingDistance.java)|Medium|
 
 ### DFS
 
