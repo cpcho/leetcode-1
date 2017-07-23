@@ -115,7 +115,13 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./LeetCode/src/sort/_056_MergeIntervals.java)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](./LeetCode/src/sort/_075_SortColors.java)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/) | [Java](./LeetCode/src/sort/_148_SortList.java)|Medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/) | [Java](./LeetCode/src/sort/_179_LargestNumber.java)|Medium|
+|274|[H Index](https://leetcode.com/problems/h-index/) | [Java](./LeetCode/src/sort/_274_HIndex.java)|Medium|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./LeetCode/src/sort/_349_IntersectionOfTwoArrays.java)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/sort/_350_IntersectionOfTwoArraysII.java)|Easy|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) | [Java](./LeetCode/src/sort/_524_Longest_WordInDictionarytTroughDeleting.java)|Medium|
 
 ### Two Pointers
