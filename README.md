@@ -6,6 +6,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 * **[Array](#array)**
 * **[BFS](#bfs)**
+* **[Binary Search](#binary-search)**
 * **[Bit Manipulation](#bit-manipulation)**
 * **[DFS](#dfs)**
 * **[Hash Table](#hash-table)**
@@ -39,6 +40,13 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Java](./LeetCode/src/bfs/_417_PacificAtlanticWaterFlow.java)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./LeetCode/src/bfs/_513_FindBottomLeftTreeValue.java)|Medium|
 |515|[FindLargestValueinEachTreeRow](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./LeetCode/src/bfs/_515_FindLargestValueinEachTreeRow.java)|Medium|
+
+### Binary Search
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](./LeetCode/src/binarySearch/_033_SearchInRotatedSortedArray.java)|Medium|
+|69|[Sqrt](https://leetcode.com/problems/sqrtx) | [Java](./LeetCode/src/binarySearch/_069_Sqrt.java)|Easy|
 
 ### Bit Manipulation
 
