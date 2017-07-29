@@ -47,6 +47,10 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |---| ----- | -------- | ---------- |
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](./LeetCode/src/binarySearch/_033_SearchInRotatedSortedArray.java)|Medium|
 |69|[Sqrt](https://leetcode.com/problems/sqrtx) | [Java](./LeetCode/src/binarySearch/_069_Sqrt.java)|Easy|
+|153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Java](./LeetCode/src/binarySearch/_153_FindMinimumInRotatedSortedArray.java)|Easy|
+|154|[Find Minimum In Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [Java](./LeetCode/src/binarySearch/_154_FindMinimumInRotatedSortedArrayII.java)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element) | [Java](./LeetCode/src/binarySearch/_162_FindPeakElement.java)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version) | [Java](./LeetCode/src/binarySearch/_278_FirstBadVersion.java)|Easy|
 
 ### Bit Manipulation
 
