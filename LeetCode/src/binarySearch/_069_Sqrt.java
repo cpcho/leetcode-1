@@ -2,18 +2,9 @@ package binarySearch;
 
 /**
  * 
- * @author chengfeili 
- * Jun 17, 2017 10:55:00 AM
+ * Problem: Implement int sqrt(int x).
  * 
- *         Problem: Implement int sqrt(int x).
- * 
- *         Compute and return the square root of x.
- *
- *         Solution:
- * 
- *         Time Complexity:
- * 
- *         Space Complexity:
+ * Compute and return the square root of x.
  *
  */
 public class _069_Sqrt {
