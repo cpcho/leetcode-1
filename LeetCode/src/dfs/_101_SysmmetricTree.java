@@ -1,6 +1,5 @@
 package dfs;
 
-import java.util.*;
 /**
  * 
  * Problem: Given a binary tree, check whether it is a mirror of itself
