@@ -84,9 +84,17 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |77|[Combinations](https://leetcode.com/problems/combinations/) | [Java](./LeetCode/src/dfs/_077_Combinations.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [Java](./LeetCode/src/dfs/_078_Subsets.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [Java](./LeetCode/src/dfs/_090_SubsetsII.java)|Medium|
-|101|[Sysmmetric Tree](http) | [Java](./LeetCode/src/dfs/_101_SysmmetricTree.java)|Easy|
-|111|[Minimum Depth of Binary Tree](htt) | [Java](./LeetCode/src/dfs/_111_MinimumDepthofBinaryTree.java)|Easy|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Java](./LeetCode/src/dfs/_098_ValidateBinarySearchTree.java)|Medium|
+|101|[Sysmmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./LeetCode/src/dfs/_101_SysmmetricTree.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./LeetCode/src/dfs/_104_MaximumDepthOfBinaryTree.java)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Java](./LeetCode/src/dfs/_110_BalancedBinaryTree.java)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Java](./LeetCode/src/dfs/_111_MinimumDepthofBinaryTree.java)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum) | [Java](./LeetCode/src/dfs/_112_PathSum.java)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii) | [Java](./LeetCode/src/dfs/_113_PathSumII.java)|Medium|
+|114|[Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Java](./LeetCode/src/dfs/_114_FlattenBinaryTreeToLinkedList.java)|Medium|
 |216|[CombinationSum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./LeetCode/src/dfs/_216_CombinationSumIII.java)|Medium|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](./LeetCode/src/dfs/_257_BinaryTreePaths.java)|Easy|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Java](./LeetCode/src/dfs/_437_PathSumIII.java)|Easy|
 
 ### Hash Table
 
