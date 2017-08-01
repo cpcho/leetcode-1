@@ -20,7 +20,7 @@ X O X X
 
  * Algorithm:  
  * 1.starts with all the 'O' on the edges. mark '+'
- * 2.change all + to o,  all o to x
+ * 2.change all o to x,  all + to o
  *
  * Time Complexity: 
  * Space Complexity:
@@ -35,6 +35,7 @@ public class _130_SurroundedRegions {
 		}
 		int rows = board.length;
 		int cols = board[0].length;
+		// first row and last row.
 		for (int i = 0; i < cols; i++) {
 			if (board[0][i] == 'O') {
 				markBFS(board, 0, i);
@@ -43,6 +44,7 @@ public class _130_SurroundedRegions {
 				markBFS(board, rows - 1, i);
 			}
 		}
+		// first column and last column
 		for (int i = 0; i < rows; i++) {
 			if (board[i][0] == 'O') {
 				markBFS(board, i, 0);
