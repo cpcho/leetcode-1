@@ -8,6 +8,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[BFS](#bfs)**
 * **[Binary Search](#binary-search)**
 * **[Bit Manipulation](#bit-manipulation)**
+* **[Design](#design)**
 * **[DFS](#dfs)**
 * **[Hash Table](#hash-table)**
 * **[LinkedList](#linkedlist)**
@@ -74,6 +75,12 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./LeetCode/src/bitManipulation/_461_HammingDistance.java)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./LeetCode/src/bitManipulation/_476_NumberComplement.java)|Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](./LeetCode/src/bitManipulation/_447_TotalHammingDistance.java)|Medium|
+
+### Design
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|146|[LRU](https://leetcode.com/problems/lru-cache) | [Java](./LeetCode/src/design/_146_LRUCache.java)|Hard|
 
 ### DFS
 
