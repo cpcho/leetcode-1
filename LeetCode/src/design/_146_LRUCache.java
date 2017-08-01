@@ -38,7 +38,7 @@ import java.util.HashMap;
  * cache.get(4); // returns 4
  *
  */
-public class LRUCache {
+public class _146_LRUCache {
 	// doublely linkedlist
 	private class Node {
 		Node prev;
@@ -61,7 +61,7 @@ public class LRUCache {
 	private Node tail = new Node(-1, -1);
 
 	// constructor
-	public LRUCache(int capacity) {
+	public _146_LRUCache(int capacity) {
 		this.capacity = capacity;
 		tail.prev = head;
 		head.next = tail;
