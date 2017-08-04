@@ -10,7 +10,7 @@ import java.util.List;
  * space.
  *
  */
-public class _229_MajorityElementII extends _134_GasStation {
+public class _229_MajorityElementII {
 	public List<Integer> majorityElement(int[] nums) {
 		List<Integer> res = new ArrayList<>();
 		if (nums == null || nums.length == 0) {
