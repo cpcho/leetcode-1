@@ -10,6 +10,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[Bit Manipulation](#bit-manipulation)**
 * **[Design](#design)**
 * **[DFS](#dfs)**
+* **[Greedy](#greedy)**
 * **[Hash Table](#hash-table)**
 * **[LinkedList](#linkedlist)**
 * **[Sort](#sort)**
@@ -102,6 +103,13 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |216|[CombinationSum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./LeetCode/src/dfs/_216_CombinationSumIII.java)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](./LeetCode/src/dfs/_257_BinaryTreePaths.java)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Java](./LeetCode/src/dfs/_437_PathSumIII.java)|Easy|
+
+
+### Greedy
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|134|[Gas Station](https://leetcode.com/problems/gas-station) | [Java](./LeetCode/src/greedy/_134_GasStation.java)|Medium|
 
 ### Hash Table
 
