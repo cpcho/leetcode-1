@@ -109,7 +109,13 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./LeetCode/src/greedy/_122_BestTimeToAndSellStockII.java)|Easy|
 |134|[Gas Station](https://leetcode.com/problems/gas-station) | [Java](./LeetCode/src/greedy/_134_GasStation.java)|Medium|
+|135|[Candy](https://leetcode.com/problems/candy) | [Java](./LeetCode/src/greedy/_135_Candy.java)|Hard|
+|169|[Majority Element](https://leetcode.com/problems/majority-element) | [Java](./LeetCode/src/greedy/_169_MajorityElement.java)|Easy|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii) | [Java](./LeetCode/src/greedy/_229_MajorityElementII.java)|Medium|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](./LeetCode/src/greedy/_406_QueueReconstructionByHeight.java)|Medium|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](./LeetCode/src/greedy/_455_AssignCookies.java)|Easy|
 
 ### Hash Table
 
