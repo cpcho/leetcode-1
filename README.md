@@ -10,6 +10,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[Bit Manipulation](#bit-manipulation)**
 * **[Design](#design)**
 * **[DFS](#dfs)**
+* **[Dynamic Programming](#dynamic-programming)**
 * **[Greedy](#greedy)**
 * **[Hash Table](#hash-table)**
 * **[LinkedList](#linkedlist)**
@@ -104,6 +105,28 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](./LeetCode/src/dfs/_257_BinaryTreePaths.java)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Java](./LeetCode/src/dfs/_437_PathSumIII.java)|Easy|
 
+### Dynamic Programming
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|53|[Maximum Subarray]() | [Java](./LeetCode/src/dynamicProgramming/_053_MaximumSubarray.java)||
+|62|[Unique Paths]() | [Java](./LeetCode/src/dynamicProgramming/_062_UniquePaths.java)||
+|64|[Minimum Path Sum]() | [Java](./LeetCode/src/dynamicProgramming/_064_MinimumPathSum.java)||
+|70|[Cimbing Stairs]() | [Java](./LeetCode/src/dynamicProgramming/_070_CimbingStairs.java)||
+|96|[Unique Binary Search Tree]() | [Java](./LeetCode/src/dynamicProgramming/_096_UniqueBinarySearchTree.java)||
+|121|[Best Time to Buy and Sell Stock]() | [Java](./LeetCode/src/dynamicProgramming/_121_BestTimeToBuyAndSellStock.java)||
+|139|[Word Break]() | [Java](./LeetCode/src/dynamicProgramming/_139_WordBreak.java)||
+|198|[House Robber]() | [Java](./LeetCode/src/dynamicProgramming/_198_HouseRobber.java)||
+|279|[Perfect Squares]() | [Java](./LeetCode/src/dynamicProgramming/_279_PerfectSquares.java)||
+|300|[Longest Increasing Subsequence]() | [Java](./LeetCode/src/dynamicProgramming/_300_LongestIncreasingSubsequence.java)||
+|338|[Counting Bits]() | [Java](./LeetCode/src/dynamicProgramming/_338_CountingBits.java)||
+|343|[Integer Break]() | [Java](./LeetCode/src/dynamicProgramming/_343_IntegerBreak.java)||
+|357|[Count Numbers with Unique Digits]() | [Java](./LeetCode/src/dynamicProgramming/_357_CountNumbersWithUniqueDigits.java)||
+|392|[Is SubSequence]() | [Java](./LeetCode/src/dynamicProgramming/_392_IsSubSequence.java)||
+|413|[Arithmetic Slices]() | [Java](./LeetCode/src/dynamicProgramming/_413_ArithmeticSlices.java)||
+|416|[Partition Equal Subset Sum]() | [Java](./LeetCode/src/dynamicProgramming/_416_PartitionEqualSubsetSum.java)||
+|474|[Ones And Zeros]() | [Java](./LeetCode/src/dynamicProgramming/_474_OnesAndZeros.java)||
+|516|[Longest Palindromic Subsequence]() | [Java](./LeetCode/src/dynamicProgramming/_516_LongestPalindromicSubsequence.java)||
 
 ### Greedy
 
