@@ -104,6 +104,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |216|[CombinationSum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./LeetCode/src/dfs/_216_CombinationSumIII.java)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](./LeetCode/src/dfs/_257_BinaryTreePaths.java)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Java](./LeetCode/src/dfs/_437_PathSumIII.java)|Easy|
+|494|[Target Sum](https://leetcode.com/problems/target-sum) | [Java](./LeetCode/src/dfs/_494_TargetSum.java)|Medium|
 
 ### Dynamic Programming
 
