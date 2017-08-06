@@ -110,7 +110,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|53|[Maximum Subarray]() | [Java](./LeetCode/src/dynamicProgramming/_053_MaximumSubarray.java)||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray | [Java](./LeetCode/src/dynamicProgramming/_053_MaximumSubarray.java)|Easy|
 |62|[Unique Paths]() | [Java](./LeetCode/src/dynamicProgramming/_062_UniquePaths.java)||
 |64|[Minimum Path Sum]() | [Java](./LeetCode/src/dynamicProgramming/_064_MinimumPathSum.java)||
 |70|[Cimbing Stairs]() | [Java](./LeetCode/src/dynamicProgramming/_070_CimbingStairs.java)||
