@@ -111,7 +111,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray | [Java](./LeetCode/src/dynamicProgramming/_053_MaximumSubarray.java)|Easy|
-|62|[Unique Paths]() | [Java](./LeetCode/src/dynamicProgramming/_062_UniquePaths.java)||
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths) | [Java](./LeetCode/src/dynamicProgramming/_062_UniquePaths.java)||
 |64|[Minimum Path Sum]() | [Java](./LeetCode/src/dynamicProgramming/_064_MinimumPathSum.java)||
 |70|[Cimbing Stairs]() | [Java](./LeetCode/src/dynamicProgramming/_070_CimbingStairs.java)||
 |96|[Unique Binary Search Tree]() | [Java](./LeetCode/src/dynamicProgramming/_096_UniqueBinarySearchTree.java)||
