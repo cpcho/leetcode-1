@@ -17,6 +17,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[Sort](#sort)**
 * **[Trie](#trie)**
 * **[Two Pointers](#two-pointers)**
+* **[Union Find](#union-find)**
 
 ### Array
 
