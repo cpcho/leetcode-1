@@ -1,5 +1,6 @@
 package bfs;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -9,33 +10,29 @@ import java.util.Set;
 
 /**
  * 
- * @author chengfeili 
- * Jun 17, 2017 12:53:27 PM
+ * Problem: Given n nodes labeled from 0 to n - 1 and a list of undirected edges
+ * (each edge is a pair of nodes), write a function to check whether these edges
+ * make up a valid tree.
  * 
- *         Problem: Given n nodes labeled from 0 to n - 1 and a list of
- *         undirected edges (each edge is a pair of nodes), write a function to
- *         check whether these edges make up a valid tree.
+ * Notice: You can assume that no duplicate edges will appear in edges. Since
+ * all edges are undirected, [0, 1] is the same as [1, 0] and thus will not
+ * appear together in edges.
  * 
- *         Notice: You can assume that no duplicate edges will appear in edges.
- *         Since all edges are undirected, [0, 1] is the same as [1, 0] and thus
- *         will not appear together in edges.
+ * Example Given n = 5 and edges = [[0, 1], [0, 2], [0, 3], [1, 4]], return
+ * true.
  * 
- *         Example Given n = 5 and edges = [[0, 1], [0, 2], [0, 3], [1, 4]],
- *         return true.
- * 
- *         Given n = 5 and edges = [[0, 1], [1, 2], [2, 3], [1, 3], [1, 4]],
- *         return false.
+ * Given n = 5 and edges = [[0, 1], [1, 2], [2, 3], [1, 3], [1, 4]], return
+ * false.
  *
- *         Solution: Graph: 1. n nodes and (n - 1) edges; 2. all nodes are
- *         connected. --> Tree
- * 
- *         Time Complexity:
- * 
- *         Space Complexity:
+ * Solution: Graph: 1. n nodes and (n - 1) edges; 2. all nodes are connected.
+ * --> Tree
  *
  */
 public class _261_GraphValidTree {
-	public boolean validTree(int n, int[][] edges) {
+	/**
+	 * Method 1: BFS
+	 */
+	public boolean validTree1(int n, int[][] edges) {
 		if (n == 0 || edges == null) {
 			return false;
 
@@ -66,5 +63,32 @@ public class _261_GraphValidTree {
 			}
 		}
 		return visited.size() == n;
+	}
+
+	/**
+	 * Method 2: Union Find
+	 */
+	public boolean validTree2(int n, int[][] edges) {
+		int[] nums = new int[n];
+		Arrays.fill(nums, -1);
+		for (int i = 0; i < edges.length; i++) {
+			int x = find(nums, edges[i][0]);
+			int y = find(nums, edges[i][1]);
+			// there's a cycle
+			if (x == y) {
+				return false;
+			}
+			// union
+			nums[x] = y;
+		}
+		return edges.length == n - 1;
+	}
+
+	int find(int nums[], int i) {
+		if (nums[i] == -1) {
+			return i;
+		}
+		nums[i] = find(nums, nums[i]);
+		return nums[i];
 	}
 }
