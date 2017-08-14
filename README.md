@@ -223,4 +223,6 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](./LeetCode/src/unionFind/_128_LongestConsecutiveSequence.java)|Hard|
+|305|[Number of Islands II(locked)](https://leetcode.com/problems/number-of-islands-ii/) | [Java](./LeetCode/src/unionFind/_305_NumberOfIslandsII.java)|Hard|
 |323|[Number of Connected Components in an Undirected Graph(locked)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Java](./LeetCode/src/unionFind/_323_NumberOfConnectedComponentsInAnUndirectedGraph.java)|Medium|
+|547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | [Java](./LeetCode/src/unionFind/_547_FriendCircles.java)|Medium|
