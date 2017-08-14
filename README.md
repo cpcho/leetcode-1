@@ -217,3 +217,10 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |524|[Longest Word In Dictionary Through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Java](./LeetCode/src/twoPointers/_524_Longest_WordInDictionaryThroughDeleting.java)|Medium|
 |532|[Kdiff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](./LeetCode/src/twoPointers/_532_Kdiff_PairsInAnArray.java)|Easy|
 |567|[Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [Java](./LeetCode/src/twoPointers/_567_PermutationInString.java)|Medium|
+
+### Union Find
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](./LeetCode/src/unionFind/_128_LongestConsecutiveSequence.java)|Hard|
+|323|[Number of Connected Components in an Undirected Graph(locked)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Java](./LeetCode/src/unionFind/_323_NumberOfConnectedComponentsInAnUndirectedGraph.java)|Medium|
