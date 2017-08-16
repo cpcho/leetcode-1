@@ -5,6 +5,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 ## Table of Contents
 
 * **[Array](#array)**
+* **[Backtracking](#backtracking)**
 * **[BFS](#bfs)**
 * **[Binary Search](#binary-search)**
 * **[Bit Manipulation](#bit-manipulation)**
@@ -26,6 +27,12 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./LeetCode/src/array/_001_TwoSum.java)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./LeetCode/src/array/_628_MaximumProductOfThreeNumbers.java)|Easy|
 
+### Backtracking
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|79|[Word Search](https://leetcode.com/problems/word-search) | [Java](./LeetCode/src/backtracking/_079_WordSearch.java)|Medium|
+|
 
 ### BFS
 
@@ -199,6 +206,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |---| ----- | -------- | ---------- |
 |208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./LeetCode/src/twoPointers/_208_ImplementTriePrefixTree.java)|Medium|
 |211|[Add And Search Word Data Structure Design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](./LeetCode/src/twoPointers/_211_AddAndSearchWordDataStructureDesign.java)|Medium|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii) | [Java](./LeetCode/src/twoPointers/_212_WordSearchII.java)|Hard|
 |421|[Maximum XOR Of Two Numbers In An Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](./LeetCode/src/twoPointers/_421_MaximumXOROfTwoNumbersInAnArray.java)|Medium|
 
 ### Two Pointers
