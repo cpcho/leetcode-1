@@ -198,8 +198,8 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./LeetCode/src/twoPointers/_208_ImplementTriePrefixTree.java)|Medium|
-|211|[Add And Search Word Data Structure Design](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./LeetCode/src/twoPointers/_211_AddAndSearchWordDataStructureDesign.java)|Medium|
-|421|[Maximum XOR Of Two Numbers In An Array](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./LeetCode/src/twoPointers/_421_MaximumXOROfTwoNumbersInAnArray.java)|Medium|
+|211|[Add And Search Word Data Structure Design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](./LeetCode/src/twoPointers/_211_AddAndSearchWordDataStructureDesign.java)|Medium|
+|421|[Maximum XOR Of Two Numbers In An Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](./LeetCode/src/twoPointers/_421_MaximumXOROfTwoNumbersInAnArray.java)|Medium|
 
 ### Two Pointers
 
