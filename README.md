@@ -149,9 +149,9 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](./LeetCode/src/hashTable/_336_PalindromePairs.java)|Hard|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./LeetCode/src/hashTable/_349_IntersectionOfTwoArrays.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/hashTable/_350_IntersectionOfTwoArraysII.java)|Easy|
-
 
 ### LinkedList
 
