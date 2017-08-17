@@ -14,7 +14,9 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[Dynamic Programming](#dynamic-programming)**
 * **[Greedy](#greedy)**
 * **[Hash Table](#hash-table)**
+* **[Heap](#heap)**
 * **[LinkedList](#linkedlist)**
+* **[queue](#queue)**
 * **[Sort](#sort)**
 * **[Trie](#trie)**
 * **[Two Pointers](#two-pointers)**
@@ -32,7 +34,6 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Java](./LeetCode/src/backtracking/_079_WordSearch.java)|Medium|
-|
 
 ### BFS
 
@@ -160,6 +161,18 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./LeetCode/src/hashTable/_349_IntersectionOfTwoArrays.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/hashTable/_350_IntersectionOfTwoArraysII.java)|Easy|
 
+### heap
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](./LeetCode/src/heap/_218_TheSkylineProblem.java)|Hard|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | [Java](./LeetCode/src/heap/_264_UglyNumberII.java)|Medium|
+|295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Java](./LeetCode/src/heap/_295_FindMedianFromDataStream.java)|Hard|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](./LeetCode/src/heap/_347_TopKFrequentElements.java)|Medium|
+|373|[Find K Pairs With Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Java](./LeetCode/src/heap/_373_FindKPairsWithSmallestSums.java)|Medium|
+|407|[Trapping RainWater II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Java](./LeetCode/src/heap/_407_TrappingRainWaterII.java)|Hard|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Java](./LeetCode/src/heap/_451_SortCharactersByFrequency.java)|Medium|
+
 ### LinkedList
 
 | # | Title | Solution | Difficulty |
@@ -186,6 +199,12 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./LeetCode/src/linkedlist/_273_DeleteNodeInALinkedList.java)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./LeetCode/src/linkedlist/_328_OddEvenLinkedList.java)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./LeetCode/src/linkedlist/_445_AddTwoNumbersII.java)|Medium|
+
+### queue
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [Java](./LeetCode/src/queue/_239_SlidingWindowMaximum.java)|Hard|
 
 ### Sort
 
