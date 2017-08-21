@@ -162,7 +162,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./LeetCode/src/hashTable/_349_IntersectionOfTwoArrays.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/hashTable/_350_IntersectionOfTwoArraysII.java)|Easy|
 
-### heap
+### Heap
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -201,7 +201,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./LeetCode/src/linkedlist/_328_OddEvenLinkedList.java)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./LeetCode/src/linkedlist/_445_AddTwoNumbersII.java)|Medium|
 
-### queue
+### Queue
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
