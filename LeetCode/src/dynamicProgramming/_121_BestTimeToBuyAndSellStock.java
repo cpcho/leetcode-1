@@ -18,6 +18,10 @@ package dynamicProgramming;
  *
  */
 public class _121_BestTimeToBuyAndSellStock {
+	public class _152_MaximumProductSubarray {
+
+	}
+
 	public int maxProfit(int[] prices) {
 		if (prices.length == 0) {
 			return 0;
