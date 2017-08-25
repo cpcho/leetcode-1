@@ -16,7 +16,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[Hash Table](#hash-table)**
 * **[Heap](#heap)**
 * **[LinkedList](#linkedlist)**
-* **[queue](#queue)**
+* **[Queue](#queue)**
 * **[Sort](#sort)**
 * **[Trie](#trie)**
 * **[Two Pointers](#two-pointers)**
