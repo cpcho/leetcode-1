@@ -1,5 +1,5 @@
 # LeetCode 
-![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-383%20%2F%20551-green.svg) <br />
+![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-401%20%2F%20589-green.svg) <br />
 The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 ## Table of Contents
@@ -126,21 +126,33 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) | [Java](./LeetCode/src/dynamicProgramming/_062_UniquePaths.java)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./LeetCode/src/dynamicProgramming/_064_MinimumPathSum.java)|Medium|
 |70|[Cimbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./LeetCode/src/dynamicProgramming/_070_CimbingStairs.java)|Easy|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [Java](./LeetCode/src/dynamicProgramming/_091_DecodeWays.java)|Medium|
 |96|[Unique Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./LeetCode/src/dynamicProgramming/_096_UniqueBinarySearchTree.java)|Medium|
+|120|[Triangle](https://leetcode.com/problems/triangle/) | [Java](./LeetCode/src/dynamicProgramming/_120_Triangle.java)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./LeetCode/src/dynamicProgramming/_121_BestTimeToBuyAndSellStock.java)|Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/) | [Java](./LeetCode/src/dynamicProgramming/_139_WordBreak.java)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./LeetCode/src/dynamicProgramming/_152_MaximumProductSubarray.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Java](./LeetCode/src/dynamicProgramming/_198_HouseRobber.java)|Easy|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii) | [Java](./LeetCode/src/dynamicProgramming/_213_HouseRobberII.java)|Easy|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/ | [Java](./LeetCode/src/dynamicProgramming/_221_MaximalSquare.java)|Medium|
+|256|[Paint House](https://leetcode.com/problems/paint-house/) | [Java](./LeetCode/src/dynamicProgramming/_256_PaintHouse.java)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](./LeetCode/src/dynamicProgramming/_264_UglyNumberII.java)|Medium|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/) | [Java](./LeetCode/src/dynamicProgramming/_276_PaintFence.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./LeetCode/src/dynamicProgramming/_279_PerfectSquares.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](./LeetCode/src/dynamicProgramming/_300_LongestIncreasingSubsequence.java)|Medium|
+|303|[Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./LeetCode/src/dynamicProgramming/_303_RangeSumQueryImmutable.java)|Easy|
+|304|[RangeSum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](./LeetCode/src/dynamicProgramming/_304_RangeSumQuery2DImmutable.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./LeetCode/src/dynamicProgramming/_338_CountingBits.java)|Medium|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | [Java](./LeetCode/src/dynamicProgramming/_343_IntegerBreak.java)|Medium|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](./LeetCode/src/dynamicProgramming/_357_CountNumbersWithUniqueDigits.java)|Medium|
+|361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | [Java](./LeetCode/src/dynamicProgramming/_361_BombEnemy.java)|Medium|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](./LeetCode/src/dynamicProgramming/_337_CombinationSumIV.java)|Easy|
 |392|[Is SubSequence](https://leetcode.com/problems/is-subsequence/) | [Java](./LeetCode/src/dynamicProgramming/_392_IsSubSequence.java)|Medium|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Java](./LeetCode/src/dynamicProgramming/_413_ArithmeticSlices.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](./LeetCode/src/dynamicProgramming/_416_PartitionEqualSubsetSum.java)|Medium|
 |474|[Ones And Zeros](https://leetcode.com/problems/ones-and-zeroes/) | [Java](./LeetCode/src/dynamicProgramming/_474_OnesAndZeros.java)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Java](./LeetCode/src/dynamicProgramming/_516_LongestPalindromicSubsequence.java)|Medium|
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./LeetCode/src/dynamicProgramming/_523_ContinuousSubarraySum.java)|Medium|
 
 ### Greedy
 
