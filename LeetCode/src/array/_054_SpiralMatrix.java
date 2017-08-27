@@ -18,7 +18,7 @@ import java.util.List;
  * You should return [1,2,3,6,9,8,7,4,5].
  *
  */
-public class _054_SpiralMatrix extends _118_PascalTriangle {
+public class _054_SpiralMatrix {
 	// four directions, up down left right
 	public List<Integer> spiralOrder(int[][] matrix) {
 		List<Integer> res = new ArrayList<>();
