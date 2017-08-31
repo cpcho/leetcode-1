@@ -257,6 +257,35 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/sort/_350_IntersectionOfTwoArraysII.java)|Easy|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) | [Java](./LeetCode/src/sort/_524_Longest_WordInDictionarytTroughDeleting.java)|Medium|
 
+### String
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|5|[Longest Palindromic Substring]() | [Java](./LeetCode/src/string/_005LongestPalindromicSubstring.java)||
+|6|[ZigZag Conversion]() | [Java](./LeetCode/src/string/_006_ZigZagConversion.java)||
+|14|[Longest Conmmon Prefix]() | [Java](./LeetCode/src/string/_014_LongestConmmonPrefix.java)||
+|38|[Count And Say]() | [Java](./LeetCode/src/string/_038_CountAndSay.java)||
+|151|[Reverse Words In String]() | [Java](./LeetCode/src/string/_151_ReverseWordsInString.java)||
+|161|[One Edit Distance]() | [Java](./LeetCode/src/string/_161_OneEditDistance.java)||
+|165|[Compare Version Numbers]() | [Java](./LeetCode/src/string/_165_CompareVersionNumbers.java)||
+|186|[Reverse Words In String II]() | [Java](./LeetCode/src/string/_186_ReverseWordsInStringII.java)||
+|214|[Shortest Palindrome]() | [Java](./LeetCode/src/string/_214_ShortestPalindrome.java)||
+|271|[Encode And Decode Strings]() | [Java](./LeetCode/src/string/_271_EncodeAndDecodeStrings.java)||
+|293|[Filip Game]() | [Java](./LeetCode/src/string/_293_FilipGame.java)||
+|383|[Ransom Note]() | [Java](./LeetCode/src/string/_383_RansomNote.java)||
+|408|[Valid Word Abbreviation]() | [Java](./LeetCode/src/string/_408_ValidWordAbbreviation.java)||
+|434|[Number Of Segments In A String]() | [Java](./LeetCode/src/string/_434_NumberOfSegmentsInAString.java)||
+|459|[Repeated Substring Pattern]() | [Java](./LeetCode/src/string/_459_RepeatedSubstringPattern.java)||
+|468|[Validate IP Address]() | [Java](./LeetCode/src/string/_468_ValidateIPAddress.java)||
+|520|[Detect Capital]() | [Java](./LeetCode/src/string/_520_DetectCapital.java)||
+|521|[Longest Uncommon Subsequence I]() | [Java](./LeetCode/src/string/_521_LongestUncommonSubsequenceI.java)||
+|522|[Longest Uncommon Subsequence II]() | [Java](./LeetCode/src/string/_522_LongestUncommonSubsequenceII.java)||
+|539|[Minimum Time Difference]() | [Java](./LeetCode/src/string/_539_MinimumTimeDifference.java)||
+|541|[Reverse String II]() | [Java](./LeetCode/src/string/_541_ReverseStringII.java)||
+|551|[Student Attendance Record I]() | [Java](./LeetCode/src/string/_551_StudentAttendanceRecordI.java)||
+|556|[Next Greater Element III]() | [Java](./LeetCode/src/string/_556_NextGreaterElementIII.java)||
+|557|[Reverse Words In A String III]() | [Java](./LeetCode/src/string/_557_ReverseWordsInAStringIII.java)||
+
 ### Trie
 
 | # | Title | Solution | Difficulty |
