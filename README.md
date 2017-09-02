@@ -16,6 +16,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[Hash Table](#hash-table)**
 * **[Heap](#heap)**
 * **[LinkedList](#linkedlist)**
+* **[Math](#math)**
 * **[Queue](#queue)**
 * **[Sort](#sort)**
 * **[String](#string)**
@@ -237,6 +238,23 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./LeetCode/src/linkedlist/_273_DeleteNodeInALinkedList.java)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./LeetCode/src/linkedlist/_328_OddEvenLinkedList.java)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./LeetCode/src/linkedlist/_445_AddTwoNumbersII.java)|Medium|
+
+### Math
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|9|[Palindrome Number]() | [Java](./LeetCode/src/math/_009_PalindromeNumber.java)||
+|168|[Excel Sheet Column Title]() | [Java](./LeetCode/src/math/_168_ExcelSheetColumnTitle.java)||
+|171|[Excel Sheet Column Number]() | [Java](./LeetCode/src/math/_171_ExcelSheetColumnNumber.java)||
+|172|[Factorial Trailing Zeroes]() | [Java](./LeetCode/src/math/_172_FactorialTrailingZeroes.java)||
+|223|[Rectangle Area]() | [Java](./LeetCode/src/math/_223_RectangleArea.java)||
+|233|[Number Of Digit One]() | [Java](./LeetCode/src/math/_233_NumberOfDigitOne.java)||
+|258|[Add Digits]() | [Java](./LeetCode/src/math/_258_AddDigits.java)||
+|263|[Ugly Number]() | [Java](./LeetCode/src/math/_263_UglyNumber.java)||
+|326|[Power Of Three]() | [Java](./LeetCode/src/math/_326_PowerOfThree.java)||
+|365|[Water And Jug Problem]() | [Java](./LeetCode/src/math/_365_WaterAndJugProblem.java)||
+|396|[Rotate Function]() | [Java](./LeetCode/src/math/_396_RotateFunction.java)||
+|400|[Nth Digit]() | [Java](./LeetCode/src/math/_400_NthDigit.java)||
 
 ### Queue
 
