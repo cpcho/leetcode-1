@@ -255,6 +255,16 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |365|[Water And Jug Problem]() | [Java](./LeetCode/src/math/_365_WaterAndJugProblem.java)||
 |396|[Rotate Function]() | [Java](./LeetCode/src/math/_396_RotateFunction.java)||
 |400|[Nth Digit]() | [Java](./LeetCode/src/math/_400_NthDigit.java)||
+|415|[Add String]() | [Java](./LeetCode/src/math/_415_AddString.java)||
+|423|[Reconstruct Original Digits From English]() | [Java](./LeetCode/src/math/_423_ReconstructOriginalDigitsFromEnglish.java)||
+|453|[Minimum Moves To Equal Array Elements]() | [Java](./LeetCode/src/math/_453_MinimumMovesToEqualArrayElements.java)||
+|462|[Minimum Moves To Equal Array Element II]() | [Java](./LeetCode/src/math/_462_MinimumMovesToEqualArrayElementII.java)||
+|469|[Convex Polygon]() | [Java](./LeetCode/src/math/_469_ConvexPolygon.java)||
+|507|[Perfect Number]() | [Java](./LeetCode/src/math/_507_PerfectNumber.java)||
+|573|[Squirrel Simulation]() | [Java](./LeetCode/src/math/_573_SquirrelSimulation.java)||
+|592|[Fraction Addition And Subtraction]() | [Java](./LeetCode/src/math/_592_FractionAdditionAndSubtraction.java)||
+|598|[Range Addition II]() | [Java](./LeetCode/src/math/_598_RangeAdditionII.java)||
+|633|[Sum Of Square Numbers]() | [Java](./LeetCode/src/math/_633_SumOfSquareNumbers.java)||
 
 ### Queue
 
