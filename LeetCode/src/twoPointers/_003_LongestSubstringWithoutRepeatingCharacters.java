@@ -1,5 +1,8 @@
 package twoPointers;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * 
  * Problem: Given a string, find the length of the longest substring without
@@ -14,27 +17,42 @@ package twoPointers;
  * Given "pwwkew", the answer is "wke", with the length of 3. Note that the
  * answer must be a substring, "pwke" is a subsequence and not a substring.
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
- *
  */
 
 public class _003_LongestSubstringWithoutRepeatingCharacters {
+	// Method 1
 	public int lengthOfLongestSubstring(String s) {
-		boolean[] map = new boolean[256];
+		if (s == null || s.length() == 0) {
+			return 0;
+		}
+		Map<Character, Integer> map = new HashMap<>(); // char -> index
+		int len = s.length();
+		int left = 0;
 		int max = 0;
-		int j = 0;
-		for (int i = 0; i < s.length(); i++) {
-			while (j < s.length() && !map[s.charAt(j)]) {
-				map[s.charAt(j)] = true;
-				max = Math.max(max, j - i + 1);
-				j++;
+		for (int right = 0; right < len; right++) {
+			if (map.containsKey(s.charAt(right))) {
+				left = Math.max(left, map.get(s.charAt(right)));
 			}
-			map[s.charAt(i)] = false;
+			max = Math.max(max, right - left + 1);
+			map.put(s.charAt(right), right + 1);
 		}
 		return max;
 	}
+
+	// Method 1
+	public int lengthOfLongestSubstring1(String s) {
+		boolean[] map = new boolean[256];
+		int max = 0;
+		int right = 0;
+		for (int left = 0; left < s.length(); left++) {
+			while (right < s.length() && !map[s.charAt(right)]) {
+				map[s.charAt(right)] = true;
+				max = Math.max(max, right - left + 1);
+				right++;
+			}
+			map[s.charAt(left)] = false;
+		}
+		return max;
+	}
+
 }
