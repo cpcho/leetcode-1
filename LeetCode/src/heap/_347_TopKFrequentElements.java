@@ -5,6 +5,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
@@ -39,7 +40,7 @@ public class _347_TopKFrequentElements {
 		// PriorityQueue<>((a, b) -> (b.getValue() - a.getValue()));
 		pq.addAll(map.entrySet());
 		while (k-- > 0 && !pq.isEmpty()) {
-			Map.Entry m = pq.poll();
+			Entry<Integer, Integer> m = pq.poll();
 			// m.getValue() is Object
 			list.add((Integer) m.getKey());
 		}
