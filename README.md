@@ -196,9 +196,17 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|36|[Valid Sudoku]() | [Java](./LeetCode/src/hashTable/_036_ValidSudoku.java)||
+|205|[Isomorphic Strings]() | [Java](./LeetCode/src/hashTable/_205_IsomorphicStrings.java)||
+|266|[Palindrome Permutation]() | [Java](./LeetCode/src/hashTable/_266_PalindromePermutation.java)||
+|290|[Word Pattern]() | [Java](./LeetCode/src/hashTable/_290_WordPattern.java)||
+|299|[Bulls And Cows]() | [Java](./LeetCode/src/hashTable/_299_BullsAndCows.java)||
+|325|[Maximum Size Subarray Sum Equals K]() | [Java](./LeetCode/src/hashTable/_325_MaximumSizeSubarraySumEqualsK.java)||
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](./LeetCode/src/hashTable/_336_PalindromePairs.java)|Hard|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./LeetCode/src/hashTable/_349_IntersectionOfTwoArrays.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/hashTable/_350_IntersectionOfTwoArraysII.java)|Easy|
+|409|[Longest Palindrome]() | [Java](./LeetCode/src/hashTable/_409_LongestPalindrome.java)||
+|438|[Find All Anagrams In A String]() | [Java](./LeetCode/src/hashTable/_438_FindAllAnagramsInAString.java)||
 
 ### Heap
 
