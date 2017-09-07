@@ -207,6 +207,14 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/hashTable/_350_IntersectionOfTwoArraysII.java)|Easy|
 |409|[Longest Palindrome]() | [Java](./LeetCode/src/hashTable/_409_LongestPalindrome.java)||
 |438|[Find All Anagrams In A String]() | [Java](./LeetCode/src/hashTable/_438_FindAllAnagramsInAString.java)||
+|447|[Number Of Boomeranges]() | [Java](./LeetCode/src/hashTable/_447_NumberOfBoomeranges.java)||
+|500|[Keyboard Row]() | [Java](./LeetCode/src/hashTable/_500_KeyboardRow.java)||
+|525|[Contiguous Array]() | [Java](./LeetCode/src/hashTable/_525_ContiguousArray.java)||
+|554|[Brick Wall]() | [Java](./LeetCode/src/hashTable/_554_BrickWall.java)||
+|575|[Distribute Candies]() | [Java](./LeetCode/src/hashTable/_575_DistributeCandies.java)||
+|594|[Longest Harmonious Subsequence]() | [Java](./LeetCode/src/hashTable/_594_LongestHarmoniousSubsequence.java)||
+|599|[Minimum Index Sum Of Two Lists]() | [Java](./LeetCode/src/hashTable/_599_MinimumIndexSumOfTwoLists.java)||
+
 
 ### Heap
 
