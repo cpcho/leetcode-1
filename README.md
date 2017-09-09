@@ -29,30 +29,30 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./LeetCode/src/array/_001_TwoSum.java)|Easy|
-|31|[Next Permutation]() | [Java](./LeetCode/src/array/_031_NextPermutation.java)|Easy|
-|41|[First Missing Positive]() | [Java](./LeetCode/src/array/_041_FirstMissingPositive.java)|Easy|
-|48|[Rotate Image]() | [Java](./LeetCode/src/array/_048_RotateImage.java)|Easy|
-|54|[Spiral Matrix]() | [Java](./LeetCode/src/array/_054_SpiralMatrix.java)|Easy|
-|59|[Spiral Matrix II]() | [Java](./LeetCode/src/array/_059_SpiralMatrixII.java)|Easy|
-|73|[Set Matrix Zeroes]() | [Java](./LeetCode/src/array/_073_SetMatrixZeroes.java)|Easy|
+|31|[Next Permutation]() | [Java](./LeetCode/src/array/_031_NextPermutation.java)|Medium|
+|41|[First Missing Positive]() | [Java](./LeetCode/src/array/_041_FirstMissingPositive.java)|Hard|
+|48|[Rotate Image]() | [Java](./LeetCode/src/array/_048_RotateImage.java)|Medium|
+|54|[Spiral Matrix]() | [Java](./LeetCode/src/array/_054_SpiralMatrix.java)|Medium|
+|59|[Spiral Matrix II]() | [Java](./LeetCode/src/array/_059_SpiralMatrixII.java)|Medium|
+|73|[Set Matrix Zeroes]() | [Java](./LeetCode/src/array/_073_SetMatrixZeroes.java)|Medium|
 |118|[Pascal Triangle]() | [Java](./LeetCode/src/array/_118_PascalTriangle.java)|Easy|
 |119|[Pascals Triangle II]() | [Java](./LeetCode/src/array/_119_PascalsTriangleII.java)|Easy|
 |169|[Majority Element]() | [Java](./LeetCode/src/array/_169_MajorityElement.java)|Easy|
 |189|[Rotate Array]() | [Java](./LeetCode/src/array/_189_RotateArray.java)|Easy|
-|228|[Summary Ranges]() | [Java](./LeetCode/src/array/_228_SummaryRanges.java)|Easy|
-|229|[Majority Element II]() | [Java](./LeetCode/src/array/_229_MajorityElementII.java)|Easy|
-|238|[Product Of Array Except Self]() | [Java](./LeetCode/src/array/_238_ProductOfArrayExceptSelf.java)|Easy|
+|228|[Summary Ranges]() | [Java](./LeetCode/src/array/_228_SummaryRanges.java)|Medium|
+|229|[Majority Element II]() | [Java](./LeetCode/src/array/_229_MajorityElementII.java)|Medium|
+|238|[Product Of Array Except Self]() | [Java](./LeetCode/src/array/_238_ProductOfArrayExceptSelf.java)|Medium|
 |243|[Shortest Word Distance]() | [Java](./LeetCode/src/array/_243_ShortestWordDistance.java)|Easy|
-|245|[Shortest Word Distance III]() | [Java](./LeetCode/src/array/_245_ShortestWordDistanceIII.java)|Easy|
-|277|[Find The Celebrity]() | [Java](./LeetCode/src/array/_277_FindTheCelebrity.java)|Easy|
-|370|[Range Addition]() | [Java](./LeetCode/src/array/_370_RangeAddition.java)|Easy|
+|245|[Shortest Word Distance III]() | [Java](./LeetCode/src/array/_245_ShortestWordDistanceIII.java)|Medium|
+|277|[Find The Celebrity]() | [Java](./LeetCode/src/array/_277_FindTheCelebrity.java)|Medium|
+|370|[Range Addition]() | [Java](./LeetCode/src/array/_370_RangeAddition.java)|Medium|
 |414|[Third Maximum Number]() | [Java](./LeetCode/src/array/_414_ThirdMaximumNumber.java)|Easy|
-|442|[Find All Duplicates In An Array]() | [Java](./LeetCode/src/array/_442_FindAllDuplicatesInAnArray.java)|Easy|
+|442|[Find All Duplicates In An Array]() | [Java](./LeetCode/src/array/_442_FindAllDuplicatesInAnArray.java)|Medium|
 |448|[Find All Numbers Disappeared In An Array]() | [Java](./LeetCode/src/array/_448_FindAllNumbersDisappearedInAnArray.java)|Easy|
 |485|[Max Consecutive Ones]() | [Java](./LeetCode/src/array/_485_MaxConsecutiveOnes.java)|Easy|
-|495|[Teemo Attacking]() | [Java](./LeetCode/src/array/_495_TeemoAttacking.java)|Easy|
-|548|[Split Array With Equal Sum]() | [Java](./LeetCode/src/array/_548_SplitArrayWithEqualSum.java)|Easy|
-|611|[ValidT riangle Number]() | [Java](./LeetCode/src/array/_611_ValidTriangleNumber.java)|Easy|
+|495|[Teemo Attacking]() | [Java](./LeetCode/src/array/_495_TeemoAttacking.java)|Medium|
+|548|[Split Array With Equal Sum]() | [Java](./LeetCode/src/array/_548_SplitArrayWithEqualSum.java)|Medium|
+|611|[ValidT riangle Number]() | [Java](./LeetCode/src/array/_611_ValidTriangleNumber.java)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./LeetCode/src/array/_628_MaximumProductOfThreeNumbers.java)|Easy|
 
 ### Backtracking
