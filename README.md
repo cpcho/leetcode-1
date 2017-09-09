@@ -76,9 +76,14 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](./LeetCode/src/bfs/_207_Coursechedule.java)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Java](./LeetCode/src/bfs/_210_CourseScheduleII.java)|Medium|
 |261|[Graph Valid Tree (locked)](https://leetcode.com/problems/graph-valid-tree/) | [Java](./LeetCode/src/bfs/_261_GraphValidTree.java)|Medium|
+|286|[Walls And Gates]() | [Java](./LeetCode/src/bfs/_286_WallsAndGates.java)||
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Java](./LeetCode/src/bfs/_417_PacificAtlanticWaterFlow.java)|Medium|
+|490|[The Maze]() | [Java](./LeetCode/src/bfs/_490_TheMaze.java)||
+|499|[The Maze III]() | [Java](./LeetCode/src/bfs/_499_TheMazeIII.java)||
+|505|[The Maze II]() | [Java](./LeetCode/src/bfs/_505_TheMazeII.java)||
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./LeetCode/src/bfs/_513_FindBottomLeftTreeValue.java)|Medium|
-|515|[FindLargestValueinEachTreeRow](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./LeetCode/src/bfs/_515_FindLargestValueinEachTreeRow.java)|Medium|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./LeetCode/src/bfs/_515_FindLargestValueinEachTreeRow.java)|Medium|
+|529|[Minesweeper]() | [Java](./LeetCode/src/bfs/_529_Minesweeper.java)||
 
 ### Binary Search
 
