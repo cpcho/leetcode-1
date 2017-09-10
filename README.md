@@ -1,5 +1,5 @@
 # LeetCode 
-![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-410%20%2F%20597-green.svg) <br />
+![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-417%20%2F%20597-green.svg) <br />
 The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 ## Table of Contents
@@ -126,6 +126,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |146|[LRU](https://leetcode.com/problems/lru-cache) | [Java](./LeetCode/src/design/_146_LRUCache.java)|Hard|
+|635|[Design Log Storage System]() | [Java](./LeetCode/src/design/_635_DesignLogStorageSystem.java)||
 
 ### DFS
 
