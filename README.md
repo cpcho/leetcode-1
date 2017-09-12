@@ -59,6 +59,9 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|22|[Generate Parentheses]() | [Java](./LeetCode/src/backtracking/_022_GenerateParentheses.java)||
+|51|[N Queues]() | [Java](./LeetCode/src/backtracking/_051_NQueues.java)||
+|52|[N Queues II]() | [Java](./LeetCode/src/backtracking/_052_NQueuesII.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Java](./LeetCode/src/backtracking/_079_WordSearch.java)|Medium|
 
 ### BFS
