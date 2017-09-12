@@ -140,6 +140,8 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Java](./LeetCode/src/dfs/_098_ValidateBinarySearchTree.java)|Medium|
 |101|[Sysmmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./LeetCode/src/dfs/_101_SysmmetricTree.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./LeetCode/src/dfs/_104_MaximumDepthOfBinaryTree.java)|Easy|
+|108|[Convert Sorted Array To Binary Search Tree]() | [Java](./LeetCode/src/dfs/_108_ConvertSortedArrayToBinarySearchTree.java)|Easy|
+|109|[Convert Sorted List To Binary Search Tree]() | [Java](./LeetCode/src/dfs/_109_ConvertSortedListToBinarySearchTree.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Java](./LeetCode/src/dfs/_110_BalancedBinaryTree.java)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Java](./LeetCode/src/dfs/_111_MinimumDepthofBinaryTree.java)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum) | [Java](./LeetCode/src/dfs/_112_PathSum.java)|Easy|
