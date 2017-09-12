@@ -26,33 +26,30 @@ import java.util.*;
  * adjacency matrices. Read more about how a graph is represented. You may
  * assume that there are no duplicate edges in the input prerequisites.
  * 
- * Algorithm:
- * 1. put all the courses do not have any pre in the queue.
- * 2. every course uses a list to store all the courses that take the cur course as a pre.
- * 3. when a course is finished, the indegree of the pointed courses should minus 1
- * 4. If there is any circle in the graph, the count will not equal to numCourses.
+ * Algorithm: 1. put all the courses do not have any pre in the queue. 2. every
+ * course uses a list to store all the courses that take the cur course as a
+ * pre. 3. when a course is finished, the indegree of the pointed courses should
+ * minus 1 4. If there is any circle in the graph, the count will not equal to
+ * numCourses.
  *
- * Time Complexity:
- *
- * Space Complexity:
  */
 
 public class _207_Coursechedule {
 	public boolean canFinish(int numCourses, int[][] prerequisites) {
-		// indegree means the number of prerequisites
 		int[] indegree = new int[numCourses];
-		List[] edges = new ArrayList[numCourses];
-   		for (int i = 0; i < numCourses; i++) {
-			edges[i] = new ArrayList<Integer>();
+		List<List<Integer>> edges = new ArrayList<>();
+		System.out.print(edges.size());
+		for (int i = 0; i < numCourses; i++) {
+			edges.add(new ArrayList<Integer>());
 		}
-		// initialize indegree
+		// initialize in degree
 		// initialize edges
 		for (int i = 0; i < prerequisites.length; i++) {
 			indegree[prerequisites[i][0]]++;
-			edges[prerequisites[i][1]].add(prerequisites[i][0]);
+			edges.get(prerequisites[i][1]).add(prerequisites[i][0]);
 		}
 		// bfs
-		// indegree=0 means the course doesn't have any pre
+		// indegree=0 means the course don't have any pre
 		Queue<Integer> queue = new LinkedList<>();
 		for (int i = 0; i < numCourses; i++) {
 			if (indegree[i] == 0) {
@@ -64,9 +61,10 @@ public class _207_Coursechedule {
 			int cur = queue.poll();
 			// finish the course
 			count++;
-			int edgeNum = edges[cur].size();
+			int edgeNum = edges.get(cur).size();
 			for (int i = 0; i < edgeNum; i++) {
-				int pointer = (int) edges[cur].get(i);
+
+				int pointer = (int) edges.get(cur).get(i);
 				indegree[pointer]--;
 				if (indegree[pointer] == 0) {
 					queue.add(pointer);

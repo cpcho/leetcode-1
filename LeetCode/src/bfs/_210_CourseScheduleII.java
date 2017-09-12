@@ -30,26 +30,21 @@ import java.util.*;
  * adjacency matrices. Read more about how a graph is represented. You may
  * assume that there are no duplicate edges in the input prerequisites.
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
  */
 class _210_CourseScheduleII {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
-    	int[] res = new int[numCourses];
+	public int[] findOrder(int numCourses, int[][] prerequisites) {
+		int[] res = new int[numCourses];
 		// indegree means the number of prerequisites
 		int[] indegree = new int[numCourses];
-		List[] edges = new ArrayList[numCourses];
-   		for (int i = 0; i < numCourses; i++) {
-			edges[i] = new ArrayList<Integer>();
+		List<List<Integer>> edges = new ArrayList<>();
+		for (int i = 0; i < numCourses; i++) {
+			edges.add(new ArrayList<Integer>());
 		}
 		// initialize indegree
 		// initialize edges
 		for (int i = 0; i < prerequisites.length; i++) {
 			indegree[prerequisites[i][0]]++;
-			edges[prerequisites[i][1]].add(prerequisites[i][0]);
+			edges.get(prerequisites[i][1]).add(prerequisites[i][0]);
 		}
 		// bfs
 		// indegree=0 means the course doesn't have any pre
@@ -64,9 +59,9 @@ class _210_CourseScheduleII {
 			int cur = queue.poll();
 			// finish the course
 			res[count++] = cur;
-			int edgeNum = edges[cur].size();
+			int edgeNum = edges.get(cur).size();
 			for (int i = 0; i < edgeNum; i++) {
-				int pointer = (int) edges[cur].get(i);
+				int pointer = (int) edges.get(cur).get(i);
 				indegree[pointer]--;
 				if (indegree[pointer] == 0) {
 					queue.add(pointer);
@@ -79,5 +74,4 @@ class _210_CourseScheduleII {
 			return new int[0];
 		}
 	}
-	
 }
