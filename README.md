@@ -45,10 +45,12 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |243|[Shortest Word Distance]() | [Java](./LeetCode/src/array/_243_ShortestWordDistance.java)|Easy|
 |245|[Shortest Word Distance III]() | [Java](./LeetCode/src/array/_245_ShortestWordDistanceIII.java)|Medium|
 |277|[Find The Celebrity]() | [Java](./LeetCode/src/array/_277_FindTheCelebrity.java)|Medium|
+|311|[Sparse Matrix Multiplication]() | [Java](./LeetCode/src/array/_311_SparseMatrixMultiplication.java)||
 |370|[Range Addition]() | [Java](./LeetCode/src/array/_370_RangeAddition.java)|Medium|
 |414|[Third Maximum Number]() | [Java](./LeetCode/src/array/_414_ThirdMaximumNumber.java)|Easy|
 |442|[Find All Duplicates In An Array]() | [Java](./LeetCode/src/array/_442_FindAllDuplicatesInAnArray.java)|Medium|
 |448|[Find All Numbers Disappeared In An Array]() | [Java](./LeetCode/src/array/_448_FindAllNumbersDisappearedInAnArray.java)|Easy|
+|463|[Island Perimeter]() | [Java](./LeetCode/src/array/_463_IslandPerimeter.java)||
 |485|[Max Consecutive Ones]() | [Java](./LeetCode/src/array/_485_MaxConsecutiveOnes.java)|Easy|
 |495|[Teemo Attacking]() | [Java](./LeetCode/src/array/_495_TeemoAttacking.java)|Medium|
 |548|[Split Array With Equal Sum]() | [Java](./LeetCode/src/array/_548_SplitArrayWithEqualSum.java)|Medium|
@@ -208,12 +210,20 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |36|[Valid Sudoku]() | [Java](./LeetCode/src/hashTable/_036_ValidSudoku.java)||
+|149|[Max Points On A Line]() | [Java](./LeetCode/src/hashTable/_149_MaxPointsOnALine.java)||
+|202|[Happy Number]() | [Java](./LeetCode/src/hashTable/_202_HappyNumber.java)||
+|204|[Count Primes]() | [Java](./LeetCode/src/hashTable/_204_CountPrimes.java)||
 |205|[Isomorphic Strings]() | [Java](./LeetCode/src/hashTable/_205_IsomorphicStrings.java)||
+|217|[Contains Duplicate]() | [Java](./LeetCode/src/hashTable/_217_ContainsDuplicate.java)||
+|219|[Contains Duplicate II]() | [Java](./LeetCode/src/hashTable/_219_ContainsDuplicateII.java)||
+|246|[Strobogrammatic Number]() | [Java](./LeetCode/src/hashTable/_246_StrobogrammaticNumber.java)||
+|249|[Group Shifted Strings]() | [Java](./LeetCode/src/hashTable/_249_GroupShiftedStrings.java)||
 |266|[Palindrome Permutation]() | [Java](./LeetCode/src/hashTable/_266_PalindromePermutation.java)||
 |290|[Word Pattern]() | [Java](./LeetCode/src/hashTable/_290_WordPattern.java)||
 |299|[Bulls And Cows]() | [Java](./LeetCode/src/hashTable/_299_BullsAndCows.java)||
 |325|[Maximum Size Subarray Sum Equals K]() | [Java](./LeetCode/src/hashTable/_325_MaximumSizeSubarraySumEqualsK.java)||
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](./LeetCode/src/hashTable/_336_PalindromePairs.java)|Hard|
+|340|[Longest Substring With At Most K Distinct Characters]() | [Java](./LeetCode/src/hashTable/_340_LongestSubstringWithAtMostKDistinctCharacters.java)||
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./LeetCode/src/hashTable/_349_IntersectionOfTwoArrays.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/hashTable/_350_IntersectionOfTwoArraysII.java)|Easy|
 |409|[Longest Palindrome]() | [Java](./LeetCode/src/hashTable/_409_LongestPalindrome.java)||
@@ -221,11 +231,11 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |447|[Number Of Boomeranges]() | [Java](./LeetCode/src/hashTable/_447_NumberOfBoomeranges.java)||
 |500|[Keyboard Row]() | [Java](./LeetCode/src/hashTable/_500_KeyboardRow.java)||
 |525|[Contiguous Array]() | [Java](./LeetCode/src/hashTable/_525_ContiguousArray.java)||
+|535|[Encode And Decode Tiny URL]() | [Java](./LeetCode/src/hashTable/_535_EncodeAndDecodeTinyURL.java)||
 |554|[Brick Wall]() | [Java](./LeetCode/src/hashTable/_554_BrickWall.java)||
 |575|[Distribute Candies]() | [Java](./LeetCode/src/hashTable/_575_DistributeCandies.java)||
 |594|[Longest Harmonious Subsequence]() | [Java](./LeetCode/src/hashTable/_594_LongestHarmoniousSubsequence.java)||
 |599|[Minimum Index Sum Of Two Lists]() | [Java](./LeetCode/src/hashTable/_599_MinimumIndexSumOfTwoLists.java)||
-
 
 ### Heap
 
