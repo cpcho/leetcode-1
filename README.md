@@ -131,6 +131,18 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |146|[LRU](https://leetcode.com/problems/lru-cache) | [Java](./LeetCode/src/design/_146_LRUCache.java)|Hard|
+|155|[Min Stack]() | [Java](./LeetCode/src/design/_155_MinStack.java)||
+|170|[Two Sum III DataStructure Design]() | [Java](./LeetCode/src/design/_170_TwoSumIIIDataStructureDesign.java)||
+|225|[Implement Stack Using Queues]() | [Java](./LeetCode/src/design/_225_ImplementStackUsingQueues.java)||
+|232|[Implement Queue Using Stacks]() | [Java](./LeetCode/src/design/_232_ImplementQueueUsingStacks.java)||
+|244|[Shortest Word Distance I]() | [Java](./LeetCode/src/design/_244_ShortestoWordDistanceI.java)||
+|281|[Zigzag Iterator]() | [Java](./LeetCode/src/design/_281_ZigzagIterator.java)||
+|284|[Peeking Iterator]() | [Java](./LeetCode/src/design/_284_PeekingIterator.java)||
+|341|[Flatten Nested List Iterator]() | [Java](./LeetCode/src/design/_341_FlattenNestedListIterator.java)||
+|346|[Moving Average From Data Stream]() | [Java](./LeetCode/src/design/_346_MovingAverageFromDataStream.java)||
+|355|[Design Twitter]() | [Java](./LeetCode/src/design/_355_DesignTwitter.java)||
+|380|[Insert Delete GetRandom]() | [Java](./LeetCode/src/design/_380_InsertDeleteGetRandom.java)||
+|381|[Insert Delete GetRandom Duplicates Allowed]() | [Java](./LeetCode/src/design/_381_InsertDeleteGetRandomDuplicatesAllowed.java)||
 |635|[Design Log Storage System]() | [Java](./LeetCode/src/design/_635_DesignLogStorageSystem.java)||
 
 ### DFS
