@@ -34,7 +34,7 @@ public class _451_SortCharactersByFrequency {
 		pq.addAll(map.entrySet());
 		StringBuilder sb = new StringBuilder();
 		while (!pq.isEmpty()) {
-			Map.Entry e = pq.poll();
+			Map.Entry<Character, Integer> e = pq.poll();
 			for (int i = 0; i < (int) e.getValue(); i++) {
 				sb.append(e.getKey());
 			}
