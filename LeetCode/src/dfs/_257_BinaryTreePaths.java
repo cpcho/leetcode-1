@@ -41,7 +41,7 @@ public class _257_BinaryTreePaths {
 			sb.append("->");
 			sb.append(root.right.val);
 			helper(root.right, res, sb);
-			sb.setLength(len);
+			//sb.setLength(len);
 		}
 	}
 }
