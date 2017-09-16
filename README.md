@@ -20,6 +20,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 * **[Queue](#queue)**
 * **[Sort](#sort)**
 * **[String](#string)**
+* **[Tree](#tree)**
 * **[Trie](#trie)**
 * **[Two Pointers](#two-pointers)**
 * **[Union Find](#union-find)**
@@ -53,6 +54,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |463|[Island Perimeter]() | [Java](./LeetCode/src/array/_463_IslandPerimeter.java)||
 |485|[Max Consecutive Ones]() | [Java](./LeetCode/src/array/_485_MaxConsecutiveOnes.java)|Easy|
 |495|[Teemo Attacking]() | [Java](./LeetCode/src/array/_495_TeemoAttacking.java)|Medium|
+|531|[Lonely Pixel I]() | [Java](./LeetCode/src/array/_531_LonelyPixelI.java)||
 |548|[Split Array With Equal Sum]() | [Java](./LeetCode/src/array/_548_SplitArrayWithEqualSum.java)|Medium|
 |611|[ValidT riangle Number]() | [Java](./LeetCode/src/array/_611_ValidTriangleNumber.java)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./LeetCode/src/array/_628_MaximumProductOfThreeNumbers.java)|Easy|
@@ -155,9 +157,10 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [Java](./LeetCode/src/dfs/_078_Subsets.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [Java](./LeetCode/src/dfs/_090_SubsetsII.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Java](./LeetCode/src/dfs/_098_ValidateBinarySearchTree.java)|Medium|
-|100|[_100_SameTree]() | [Java](./LeetCode/src/dfs/_100_SameTree.java)||
+|100|[100 Same Tree]() | [Java](./LeetCode/src/dfs/_100_SameTree.java)||
 |101|[Sysmmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./LeetCode/src/dfs/_101_SysmmetricTree.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./LeetCode/src/dfs/_104_MaximumDepthOfBinaryTree.java)|Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal]() | [Java](./LeetCode/src/dfs/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java)||
 |108|[Convert Sorted Array To Binary Search Tree]() | [Java](./LeetCode/src/dfs/_108_ConvertSortedArrayToBinarySearchTree.java)|Easy|
 |109|[Convert Sorted List To Binary Search Tree]() | [Java](./LeetCode/src/dfs/_109_ConvertSortedListToBinarySearchTree.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Java](./LeetCode/src/dfs/_110_BalancedBinaryTree.java)|Easy|
@@ -165,11 +168,18 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |112|[Path Sum](https://leetcode.com/problems/path-sum) | [Java](./LeetCode/src/dfs/_112_PathSum.java)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii) | [Java](./LeetCode/src/dfs/_113_PathSumII.java)|Medium|
 |114|[Flatten Binary Tree to LinkedList](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Java](./LeetCode/src/dfs/_114_FlattenBinaryTreeToLinkedList.java)|Medium|
-|116|[_116_PopulatingNextRightPointersinEachNode]() | [Java](./LeetCode/src/dfs/_116_PopulatingNextRightPointersinEachNode.java)||
-|124|[_124_BinaryTreeMaximumPathSum]() | [Java](./LeetCode/src/dfs/_124_BinaryTreeMaximumPathSum.java)||
+|116|[Populating Next Right Pointers in Each Node]() | [Java](./LeetCode/src/dfs/_116_PopulatingNextRightPointersinEachNode.java)||
+|124|[Binary Tree Maximum Path Sum]() | [Java](./LeetCode/src/dfs/_124_BinaryTreeMaximumPathSum.java)||
+|129|[Sum Root to Leaf Numbers]() | [Java](./LeetCode/src/dfs/_129_SumRoottoLeafNumbers.java)||
 |216|[CombinationSum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./LeetCode/src/dfs/_216_CombinationSumIII.java)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](./LeetCode/src/dfs/_257_BinaryTreePaths.java)|Easy|
+|337|[House Robber III]() | [Java](./LeetCode/src/dfs/_337_HouseRobberIII.java)||
+|364|[Nested List Weight Sum II]() | [Java](./LeetCode/src/dfs/_364_NestedListWeightSumII.java)||
+|366|[Find Leaves of Binary Tree]() | [Java](./LeetCode/src/dfs/_366_FindLeavesofBinaryTree.java)||
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii) | [Java](./LeetCode/src/dfs/_437_PathSumIII.java)|Easy|
+|439|[Ternary Expression Parser]() | [Java](./LeetCode/src/dfs/_439_TernaryExpressionParser.java)||
+|473|[Matchsticks to Square]() | [Java](./LeetCode/src/dfs/_473_MatchstickstoSquare.java)||
+|491|[Increasing Subsequences]() | [Java](./LeetCode/src/dfs/_491_IncreasingSubsequences.java)||
 |494|[Target Sum](https://leetcode.com/problems/target-sum) | [Java](./LeetCode/src/dfs/_494_TargetSum.java)|Medium|
 
 ### Dynamic Programming
@@ -365,6 +375,12 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |551|[Student Attendance Record I]() | [Java](./LeetCode/src/string/_551_StudentAttendanceRecordI.java)||
 |556|[Next Greater Element III]() | [Java](./LeetCode/src/string/_556_NextGreaterElementIII.java)||
 |557|[Reverse Words In A String III]() | [Java](./LeetCode/src/string/_557_ReverseWordsInAStringIII.java)||
+
+### Tree
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|117|[Populating Next Right Pointers in Eac hNode II]() | [Java](./LeetCode/src/tree/_117_PopulatingNextRightPointersinEachNodeII.java)||
 
 ### Trie
 
