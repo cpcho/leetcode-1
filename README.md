@@ -157,7 +157,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [Java](./LeetCode/src/dfs/_078_Subsets.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [Java](./LeetCode/src/dfs/_090_SubsetsII.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Java](./LeetCode/src/dfs/_098_ValidateBinarySearchTree.java)|Medium|
-|100|[100 Same Tree]() | [Java](./LeetCode/src/dfs/_100_SameTree.java)||
+|100|[Same Tree]() | [Java](./LeetCode/src/dfs/_100_SameTree.java)||
 |101|[Sysmmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./LeetCode/src/dfs/_101_SysmmetricTree.java)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./LeetCode/src/dfs/_104_MaximumDepthOfBinaryTree.java)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal]() | [Java](./LeetCode/src/dfs/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java)||
