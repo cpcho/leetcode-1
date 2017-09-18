@@ -7,11 +7,12 @@ import java.util.*;
  * Problem: Given a 2d grid map of '1's (land) and '0's (water), count the
  * number of islands. An island is surrounded by water and is formed by
  * connecting adjacent lands horizontally or vertically. You may assume all four
- * edges of the grid are all surrounded by water. 
- * Time Complexity:
- * Space Complexity:
+ * edges of the grid are all surrounded by water.
+ *
  */
 public class _200_NumberOfIslands {
+	private int[] POINT = { 0, -1, 0, 1, 0 };
+
 	public int numIslands(char[][] grid) {
 		if (grid == null || grid.length == 0 || grid[0].length == 0) {
 			return 0;
@@ -41,25 +42,13 @@ public class _200_NumberOfIslands {
 			index = queue.poll();
 			row = index / cols;
 			col = index % cols;
-			// up
-			if (row > 0 && grid[row - 1][col] == '1') {
-				queue.offer((row - 1) * cols + col);
-				grid[row - 1][col] = '0';
-			}
-			// down
-			if (row < rows - 1 && grid[row + 1][col] == '1') {
-				queue.offer((row + 1) * cols + col);
-				grid[row + 1][col] = '0';
-			}
-			// left
-			if (col > 0 && grid[row][col - 1] == '1') {
-				queue.offer(row * cols + col - 1);
-				grid[row][col - 1] = '0';
-			}
-			// right
-			if (col < cols - 1 && grid[row][col + 1] == '1') {
-				queue.offer(row * cols + col + 1);
-				grid[row][col + 1] = '0';
+			for (int i = 0; i < 4; i++) {
+				int newRow = row + POINT[i];
+				int newCol = col + POINT[i + 1];
+				if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && grid[newRow][newCol] == '1') {
+					queue.offer(newRow * cols + newCol);
+					grid[newRow][newCol] = '0';
+				}
 			}
 		}
 	}
