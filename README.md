@@ -97,6 +97,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](./LeetCode/src/binarySearch/_033_SearchInRotatedSortedArray.java)|Medium|
+|34|[Search For A Range]() | [Java](./LeetCode/src/binarySearch/_034_SearchForARange.java)||
 |69|[Sqrt](https://leetcode.com/problems/sqrtx) | [Java](./LeetCode/src/binarySearch/_069_Sqrt.java)|Easy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](./LeetCode/src/binarySearch/_074_SearchA2DMatrix.java)|Medium|
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Java](./LeetCode/src/binarySearch/_153_FindMinimumInRotatedSortedArray.java)|Easy|
