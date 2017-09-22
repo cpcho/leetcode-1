@@ -5,8 +5,10 @@ import java.util.Set;
 
 /**
  * 
- * Problem: Given an array with n integers, you need to find if there are
- * triplets (i, j, k) which satisfies following conditions:
+ * Problem:
+ * 
+ * Given an array with n integers, you need to find if there are triplets (i, j,
+ * k) which satisfies following conditions:
  * 
  * 1. 0 < i, i + 1 < j, j + 1 < k < n - 1
  * 

@@ -2,10 +2,11 @@ package array;
 
 /**
  * 
- * Problem: Suppose you are at a party with n people (labeled from 0 to n - 1)
- * and among them, there may exist one celebrity. The definition of a celebrity
- * is that all the other n - 1 people know him/her but he/she does not know any
- * of them.
+ * Problem:
+ * 
+ * Suppose you are at a party with n people (labeled from 0 to n - 1) and among
+ * them, there may exist one celebrity. The definition of a celebrity is that
+ * all the other n - 1 people know him/her but he/she does not know any of them.
  * 
  * Now you want to find out who the celebrity is or verify that there is not
  * one. The only thing you are allowed to do is to ask questions like:
@@ -25,21 +26,11 @@ package array;
  */
 public class _277_FindTheCelebrity {
 	// two pass, 1. find the celebrity. 2. check wheateher real celebrity
-	
+
 	/**
-	public int findCelebrity(int n) {
-		int celebrity = 0;
-		for (int i = 1; i < n; i++) {
-			if (knows(celebrity, i)) {
-				celebrity = i;
-			}
-		}
-		for (int i = 0; i < n; i++) {
-			if (i != celebrity && (knows(celebrity, i) || !knows(i, celebrity))) {
-				return -1;
-			}
-		}
-		return celebrity;
-	}
-	*/
+	 * public int findCelebrity(int n) { int celebrity = 0; for (int i = 1; i <
+	 * n; i++) { if (knows(celebrity, i)) { celebrity = i; } } for (int i = 0; i
+	 * < n; i++) { if (i != celebrity && (knows(celebrity, i) || !knows(i,
+	 * celebrity))) { return -1; } } return celebrity; }
+	 */
 }

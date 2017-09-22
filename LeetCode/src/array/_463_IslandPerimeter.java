@@ -2,8 +2,10 @@ package array;
 
 /**
  * 
- * Problem: You are given a map in form of a two-dimensional integer grid where
- * 1 represents land and 0 represents water. Grid cells are connected
+ * Problem:
+ * 
+ * You are given a map in form of a two-dimensional integer grid where 1
+ * represents land and 0 represents water. Grid cells are connected
  * horizontally/vertically (not diagonally). The grid is completely surrounded
  * by water, and there is exactly one island (i.e., one or more connected land
  * cells). The island doesn't have "lakes" (water inside that isn't connected to
