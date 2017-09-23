@@ -97,14 +97,20 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](./LeetCode/src/binarySearch/_033_SearchInRotatedSortedArray.java)|Medium|
+|35|[Search Insert Position]() | [Java](./LeetCode/src/binarySearch/_035_SearchInsertPosition.java)||
 |34|[Search For A Range]() | [Java](./LeetCode/src/binarySearch/_034_SearchForARange.java)||
 |69|[Sqrt](https://leetcode.com/problems/sqrtx) | [Java](./LeetCode/src/binarySearch/_069_Sqrt.java)|Easy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](./LeetCode/src/binarySearch/_074_SearchA2DMatrix.java)|Medium|
+|81|[Search In Rotated Sorted ArrayII]() | [Java](./LeetCode/src/binarySearch/_081_SearchInRotatedSoftedArrayII.java)||
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Java](./LeetCode/src/binarySearch/_153_FindMinimumInRotatedSortedArray.java)|Easy|
 |154|[Find Minimum In Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [Java](./LeetCode/src/binarySearch/_154_FindMinimumInRotatedSortedArrayII.java)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element) | [Java](./LeetCode/src/binarySearch/_162_FindPeakElement.java)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Java](./LeetCode/src/binarySearch/_240_SearchA2DMatrixII.java)|Easy|
+|270|[Closest Binary Search Tree Value]() | [Java](./LeetCode/src/binarySearch/_270_ClosestBinarySearchTreeValue.java)||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version) | [Java](./LeetCode/src/binarySearch/_278_FirstBadVersion.java)|Easy|
+|367|[Valid Perfect Square]() | [Java](./LeetCode/src/binarySearch/_367_ValidPerfectSquare.java)||
+|441|[Arranging Coins]() | [Java](./LeetCode/src/binarySearch/_441_ArrangingCoins.java)||
+|475|[Heaters]() | [Java](./LeetCode/src/binarySearch/_475_Heaters.java)||
 
 ### Bit Manipulation
 
@@ -173,7 +179,9 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |124|[Binary Tree Maximum Path Sum]() | [Java](./LeetCode/src/dfs/_124_BinaryTreeMaximumPathSum.java)||
 |129|[Sum Root to Leaf Numbers]() | [Java](./LeetCode/src/dfs/_129_SumRoottoLeafNumbers.java)||
 |216|[CombinationSum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./LeetCode/src/dfs/_216_CombinationSumIII.java)|Medium|
+|230|[Kth Smallest Element]() | [Java](./LeetCode/src/dfs/_230_KthSmallestElement.java)||
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](./LeetCode/src/dfs/_257_BinaryTreePaths.java)|Easy|
+|275|[H Index II]() | [Java](./LeetCode/src/dfs/_275_HIndexII.java)||
 |337|[House Robber III]() | [Java](./LeetCode/src/dfs/_337_HouseRobberIII.java)||
 |364|[Nested List Weight Sum II]() | [Java](./LeetCode/src/dfs/_364_NestedListWeightSumII.java)||
 |366|[Find Leaves of Binary Tree]() | [Java](./LeetCode/src/dfs/_366_FindLeavesofBinaryTree.java)||
@@ -307,6 +315,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |9|[Palindrome Number]() | [Java](./LeetCode/src/math/_009_PalindromeNumber.java)||
+|50|[Pow]() | [Java](./LeetCode/src/math/_050_Pow.java)||
 |168|[Excel Sheet Column Title]() | [Java](./LeetCode/src/math/_168_ExcelSheetColumnTitle.java)||
 |171|[Excel Sheet Column Number]() | [Java](./LeetCode/src/math/_171_ExcelSheetColumnNumber.java)||
 |172|[Factorial Trailing Zeroes]() | [Java](./LeetCode/src/math/_172_FactorialTrailingZeroes.java)||
@@ -410,6 +419,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./LeetCode/src/twoPointers/_125_ValidPalindrome.java)|Easy|
 |167|[Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./LeetCode/src/twoPointers/_167_TwoSumIIInputArrayIsSorted.java)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./LeetCode/src/twoPointers/_209_MinimumSizeSubarraySum.java)|Medium|
+|287|[Find The Duplicate]() | [Java](./LeetCode/src/twoPointers/_287_FindTheDuplicate.java)||
 |345|[Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./LeetCode/src/twoPointers/_345_ReverseVowelsOfAString.java)|Easy|
 |524|[Longest Word In Dictionary Through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Java](./LeetCode/src/twoPointers/_524_Longest_WordInDictionaryThroughDeleting.java)|Medium|
 |532|[Kdiff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](./LeetCode/src/twoPointers/_532_Kdiff_PairsInAnArray.java)|Easy|
