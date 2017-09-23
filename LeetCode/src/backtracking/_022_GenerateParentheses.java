@@ -5,14 +5,17 @@ import java.util.List;
 
 /**
  * 
- * Problem: Given n pairs of parentheses, write a function to generate all
- * combinations of well-formed parentheses.
+ * Problem:
+ * 
+ * Given n pairs of parentheses, write a function to generate all combinations
+ * of well-formed parentheses.
  * 
  * For example, given n = 3, a solution set is:
  * 
  * [ "((()))", "(()())", "(())()", "()(())", "()()()" ]
  * 
- * Solution: DFS, open and close variable. open < (number Of pairs) && close < open
+ * Solution: DFS, open and close variable. open < (number Of pairs) && close <
+ * open
  */
 public class _022_GenerateParentheses {
 	public List<String> generateParenthesis(int n) {
