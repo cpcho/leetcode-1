@@ -2,8 +2,10 @@ package binarySearch;
 
 /**
  * 
- * Problem: Follow up for "Find Minimum in Rotated Sorted Array": What if
- * duplicates are allowed?
+ * Problem:
+ * 
+ * Follow up for "Find Minimum in Rotated Sorted Array": What if duplicates are
+ * allowed?
  * 
  * Would this affect the run-time complexity? How and why? Suppose an array
  * sorted in ascending order is rotated at some pivot unknown to you beforehand.

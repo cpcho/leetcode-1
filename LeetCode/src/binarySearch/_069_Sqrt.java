@@ -2,7 +2,9 @@ package binarySearch;
 
 /**
  * 
- * Problem: Implement int sqrt(int x).
+ * Problem:
+ * 
+ * Implement int sqrt(int x).
  * 
  * Compute and return the square root of x.
  *
