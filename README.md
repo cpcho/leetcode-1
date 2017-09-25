@@ -58,6 +58,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |548|[Split Array With Equal Sum]() | [Java](./LeetCode/src/array/_548_SplitArrayWithEqualSum.java)|Medium|
 |611|[ValidT riangle Number]() | [Java](./LeetCode/src/array/_611_ValidTriangleNumber.java)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./LeetCode/src/array/_628_MaximumProductOfThreeNumbers.java)|Easy|
+|683|[K Empty Slots]() | [Java](./LeetCode/src/array/_683_KEmptySlots.java)|Hard|
 
 ### Backtracking
 
@@ -385,6 +386,8 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |551|[Student Attendance Record I]() | [Java](./LeetCode/src/string/_551_StudentAttendanceRecordI.java)||
 |556|[Next Greater Element III]() | [Java](./LeetCode/src/string/_556_NextGreaterElementIII.java)||
 |557|[Reverse Words In A String III]() | [Java](./LeetCode/src/string/_557_ReverseWordsInAStringIII.java)||
+|680|[Valid Palindrome II]() | [Java](./LeetCode/src/string/_680_ValidPalindromeII.java)||
+|681|[Next Closest Time]() | [Java](./LeetCode/src/string/_681_NextClosestTime.java)||
 
 ### Tree
 
