@@ -1,5 +1,5 @@
 # LeetCode 
-![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-417%20%2F%20597-green.svg) <br />
+![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-421%20%2F%20597-green.svg) <br />
 The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 ## Table of Contents
