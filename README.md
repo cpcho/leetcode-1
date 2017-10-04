@@ -1,5 +1,5 @@
 # LeetCode 
-![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-421%20%2F%20597-green.svg) <br />
+![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-423%20%2F%20597-green.svg) <br />
 The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 ## Table of Contents
@@ -191,6 +191,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |473|[Matchsticks to Square]() | [Java](./LeetCode/src/dfs/_473_MatchstickstoSquare.java)||
 |491|[Increasing Subsequences]() | [Java](./LeetCode/src/dfs/_491_IncreasingSubsequences.java)||
 |494|[Target Sum](https://leetcode.com/problems/target-sum) | [Java](./LeetCode/src/dfs/_494_TargetSum.java)|Medium|
+|687|[Longest Univalue Path]() | [Java](./LeetCode/src/dfs/_687_LongestUnivaluePath.java)||
 
 ### Dynamic Programming
 
@@ -388,6 +389,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |557|[Reverse Words In A String III]() | [Java](./LeetCode/src/string/_557_ReverseWordsInAStringIII.java)||
 |680|[Valid Palindrome II]() | [Java](./LeetCode/src/string/_680_ValidPalindromeII.java)||
 |681|[Next Closest Time]() | [Java](./LeetCode/src/string/_681_NextClosestTime.java)||
+|681|[Repeated String Match]() | [Java](./LeetCode/src/string/_686_RepeatedStringMatch.java)||
 
 ### Tree
 
