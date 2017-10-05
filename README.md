@@ -58,6 +58,9 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |548|[Split Array With Equal Sum]() | [Java](./LeetCode/src/array/_548_SplitArrayWithEqualSum.java)|Medium|
 |611|[ValidT riangle Number]() | [Java](./LeetCode/src/array/_611_ValidTriangleNumber.java)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./LeetCode/src/array/_628_MaximumProductOfThreeNumbers.java)|Easy|
+|665|[Non decreasing Array]() | [Java](./LeetCode/src/array/_665_NondecreasingArray.java)||
+|667|[Beatiful Arrangement II]() | [Java](./LeetCode/src/array/_667_BeatifulArrangementII.java)||
+|674|[Longest Continuous Increasing Subsequence]() | [Java](./LeetCode/src/array/_674_LongestContinuousIncreasingSubsequence.java)||
 |683|[K Empty Slots]() | [Java](./LeetCode/src/array/_683_KEmptySlots.java)|Hard|
 
 ### Backtracking
@@ -438,3 +441,4 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |305|[Number of Islands II(locked)](https://leetcode.com/problems/number-of-islands-ii/) | [Java](./LeetCode/src/unionFind/_305_NumberOfIslandsII.java)|Hard|
 |323|[Number of Connected Components in an Undirected Graph(locked)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Java](./LeetCode/src/unionFind/_323_NumberOfConnectedComponentsInAnUndirectedGraph.java)|Medium|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | [Java](./LeetCode/src/unionFind/_547_FriendCircles.java)|Medium|
+|684|[Redundant Connection]() | [Java](./LeetCode/src/unionFind/_684_RedundantConnection.java)|Medium|
