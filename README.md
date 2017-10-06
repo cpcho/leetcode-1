@@ -56,10 +56,14 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |495|[Teemo Attacking]() | [Java](./LeetCode/src/array/_495_TeemoAttacking.java)|Medium|
 |531|[Lonely Pixel I]() | [Java](./LeetCode/src/array/_531_LonelyPixelI.java)||
 |548|[Split Array With Equal Sum]() | [Java](./LeetCode/src/array/_548_SplitArrayWithEqualSum.java)|Medium|
+|581|[Shortest Unsorted Continuous Subarray]() | [Java](./LeetCode/src/array/_581_ShortestUnsortedContinuousSubarray.java)||
+|605|[Can Place Flowers]() | [Java](./LeetCode/src/array/_605_CanPlaceFlowers.java)||
 |611|[ValidT riangle Number]() | [Java](./LeetCode/src/array/_611_ValidTriangleNumber.java)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./LeetCode/src/array/_628_MaximumProductOfThreeNumbers.java)|Easy|
+|661|[Image Smoother]() | [Java](./LeetCode/src/array/_661_ImageSmoother.java)||
 |665|[Non decreasing Array]() | [Java](./LeetCode/src/array/_665_NondecreasingArray.java)||
 |667|[Beatiful Arrangement II]() | [Java](./LeetCode/src/array/_667_BeatifulArrangementII.java)||
+|670|[Maximum Swap]() | [Java](./LeetCode/src/array/_670_MaximumSwap.java)||
 |674|[Longest Continuous Increasing Subsequence]() | [Java](./LeetCode/src/array/_674_LongestContinuousIncreasingSubsequence.java)||
 |683|[K Empty Slots]() | [Java](./LeetCode/src/array/_683_KEmptySlots.java)|Hard|
 
