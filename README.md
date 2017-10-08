@@ -99,6 +99,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./LeetCode/src/bfs/_513_FindBottomLeftTreeValue.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./LeetCode/src/bfs/_515_FindLargestValueinEachTreeRow.java)|Medium|
 |529|[Minesweeper]() | [Java](./LeetCode/src/bfs/_529_Minesweeper.java)||
+|582|[Kill Process]() | [Java](./LeetCode/src/bfs/_582_KillProcess.java)||
 
 ### Binary Search
 
@@ -198,6 +199,13 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |473|[Matchsticks to Square]() | [Java](./LeetCode/src/dfs/_473_MatchstickstoSquare.java)||
 |491|[Increasing Subsequences]() | [Java](./LeetCode/src/dfs/_491_IncreasingSubsequences.java)||
 |494|[Target Sum](https://leetcode.com/problems/target-sum) | [Java](./LeetCode/src/dfs/_494_TargetSum.java)|Medium|
+|606|[Construct String from Binary Tree]() | [Java](./LeetCode/src/dfs/_606_ConstructStringfromBinaryTree.java)||
+|617|[Merge Two Binary Trees]() | [Java](./LeetCode/src/dfs/_617_MergeTwoBinaryTrees.java)||
+|652|[Find Duplicate Subtrees]() | [Java](./LeetCode/src/dfs/_652_FindDuplicateSubtrees.java)||
+|662|[Maximum Width of Binary Tree]() | [Java](./LeetCode/src/dfs/_662_MaximumWidthofBinaryTree.java)||
+|663|[Equal Tree Partition]() | [Java](./LeetCode/src/dfs/_663_EqualTreePartition.java)||
+|669|[Trim A Binary Search Tree]() | [Java](./LeetCode/src/dfs/_669_TrimABinarySearchTree.java)||
+|671|[Second Minimum Node In a Binary Tree]() | [Java](./LeetCode/src/dfs/_671_SecondMinimumNodeInaBinaryTree.java)||
 |687|[Longest Univalue Path]() | [Java](./LeetCode/src/dfs/_687_LongestUnivaluePath.java)||
 
 ### Dynamic Programming
@@ -402,7 +410,10 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|95|[Unique Binary Search Trees II]() | [Java](./LeetCode/src/tree/_095_UniqueBinarySearchTreesII.java)||
 |117|[Populating Next Right Pointers in Eac hNode II]() | [Java](./LeetCode/src/tree/_117_PopulatingNextRightPointersinEachNodeII.java)||
+|222|[Count Complete Tree Node]() | [Java](./LeetCode/src/tree/_222_CountCompleteTreeNode.java)||
+|654|[Maximum Binary Tree]() | [Java](./LeetCode/src/tree/_654_MaximumBinaryTree.java)||
 
 ### Trie
 
