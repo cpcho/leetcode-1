@@ -40,6 +40,7 @@ public class _031_NextPermutation {
 		reverse(nums, i);
 	}
 
+	// 1, 5, 4, 3 ==> 3, 5, 4, 1
 	private void swap(int[] nums, int i) {
 		for (int j = nums.length - 1; j > i; j--) {
 			if (nums[j] > nums[i]) {

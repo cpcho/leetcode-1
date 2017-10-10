@@ -21,14 +21,13 @@ package array;
  * 
  * Solution:
  * 
- * As before, write {[1, 2, ..., n-k-1]}[1, 2, ..., n-k-1] first. The remaining
- * {k+1}k+1 elements to be written are {[n-k, n-k+1, ..., n]}[n-k, n-k+1, ...,
- * n], and we'll write them in alternating head and tail order.
+ * As before, write [1, 2, ..., n-k-1] first. The remaining k+1 elements to be
+ * written are [n-k, n-k+1, ..., n], and we'll write them in alternating head
+ * and tail order.
  * 
- * When we are writing the i^{th}i ​th ​​ element from the remaining {k+1}k+1,
- * every even ii is going to be chosen from the head, and will have value {n-k +
- * i//2}n-k + i//2. Every odd ii is going to be chosen from the tail, and will
- * have value {n - i//2}n - i//2.
+ * When we are writing the i ​th ​​ element from the remaining k+1, every even
+ * i is going to be chosen from the head, and will have value n-k + i/2. Every
+ * odd i is going to be chosen from the tail, and will have value n - i/2.
  * 
  */
 public class _667_BeatifulArrangementII {
