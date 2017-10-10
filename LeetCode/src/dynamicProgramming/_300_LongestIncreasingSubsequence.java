@@ -17,25 +17,20 @@ package dynamicProgramming;
  */
 public class _300_LongestIncreasingSubsequence {
 	public int lengthOfLIS(int[] nums) {
-		if (nums.length <= 1)
-			return nums.length;
-		int a[] = new int[nums.length];
-		for (int i = 0; i < a.length; i++) {
-			a[i] = 1;
-		}
-		for (int i = 1; i < a.length; i++) {
-			for (int j = 0; j < i; j++) {
-				if (nums[j] < nums[i]) {
-					if (a[j] + 1 > a[i]) {
-						a[i] = a[j] + 1;
+		int len = nums.length;
+		int max = 0;
+		int[] dp = new int[len];
+		for (int r = 0; r < len; r++) {
+			dp[r] = 1;
+			for (int l = 0; l < r; l++) {
+				if (nums[l] < nums[r]) {
+					if (dp[r] < dp[l] + 1) {
+						dp[r] = dp[l] + 1;
 					}
 				}
 			}
+			max = Math.max(max, dp[r]);
 		}
-		int numLis = 0;
-		for (int i = 0; i < a.length; i++) {
-			numLis = Math.max(numLis, a[i]);
-		}
-		return numLis;
+		return max;
 	}
 }
