@@ -1,5 +1,5 @@
 # LeetCode 
-![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-423%20%2F%20597-green.svg) <br />
+![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-445%20%2F%20617-green.svg) <br />
 The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 ## Table of Contents
@@ -100,6 +100,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./LeetCode/src/bfs/_515_FindLargestValueinEachTreeRow.java)|Medium|
 |529|[Minesweeper]() | [Java](./LeetCode/src/bfs/_529_Minesweeper.java)||
 |582|[Kill Process]() | [Java](./LeetCode/src/bfs/_582_KillProcess.java)||
+|690|[Employee Importance]() | [Java](./LeetCode/src/bfs/_690_EmployeeImportance.java)||
 
 ### Binary Search
 
@@ -243,6 +244,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |474|[Ones And Zeros](https://leetcode.com/problems/ones-and-zeroes/) | [Java](./LeetCode/src/dynamicProgramming/_474_OnesAndZeros.java)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Java](./LeetCode/src/dynamicProgramming/_516_LongestPalindromicSubsequence.java)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./LeetCode/src/dynamicProgramming/_523_ContinuousSubarraySum.java)|Medium|
+|673|[673_NumberofLongestIncreasingSubsequence]() | [Java](./LeetCode/src/dynamicProgramming/673_NumberofLongestIncreasingSubsequence.java)||
 
 ### Greedy
 
@@ -423,6 +425,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |211|[Add And Search Word Data Structure Design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](./LeetCode/src/twoPointers/_211_AddAndSearchWordDataStructureDesign.java)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii) | [Java](./LeetCode/src/twoPointers/_212_WordSearchII.java)|Hard|
 |421|[Maximum XOR Of Two Numbers In An Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](./LeetCode/src/twoPointers/_421_MaximumXOROfTwoNumbersInAnArray.java)|Medium|
+|648|[Replace Words]() | [Java](./LeetCode/src/twoPointers/_648_ReplaceWords.java)||
 
 ### Two Pointers
 
