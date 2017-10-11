@@ -35,7 +35,6 @@ public class _261_GraphValidTree {
 	public boolean validTree1(int n, int[][] edges) {
 		if (n == 0 || edges == null) {
 			return false;
-
 		}
 		if (edges.length != n - 1) {
 			return false;
@@ -84,7 +83,7 @@ public class _261_GraphValidTree {
 		return edges.length == n - 1;
 	}
 
-	int find(int nums[], int i) {
+	private int find(int nums[], int i) {
 		if (nums[i] == -1) {
 			return i;
 		}

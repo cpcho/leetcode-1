@@ -38,7 +38,6 @@ public class _207_Coursechedule {
 	public boolean canFinish(int numCourses, int[][] prerequisites) {
 		int[] indegree = new int[numCourses];
 		List<List<Integer>> edges = new ArrayList<>();
-		System.out.print(edges.size());
 		for (int i = 0; i < numCourses; i++) {
 			edges.add(new ArrayList<Integer>());
 		}
@@ -63,7 +62,6 @@ public class _207_Coursechedule {
 			count++;
 			int edgeNum = edges.get(cur).size();
 			for (int i = 0; i < edgeNum; i++) {
-
 				int pointer = (int) edges.get(cur).get(i);
 				indegree[pointer]--;
 				if (indegree[pointer] == 0) {
