@@ -244,7 +244,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |474|[Ones And Zeros](https://leetcode.com/problems/ones-and-zeroes/) | [Java](./LeetCode/src/dynamicProgramming/_474_OnesAndZeros.java)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Java](./LeetCode/src/dynamicProgramming/_516_LongestPalindromicSubsequence.java)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./LeetCode/src/dynamicProgramming/_523_ContinuousSubarraySum.java)|Medium|
-|673|[673_NumberofLongestIncreasingSubsequence]() | [Java](./LeetCode/src/dynamicProgramming/673_NumberofLongestIncreasingSubsequence.java)||
+|673|[Number of Longest Increasing Subsequence]() | [Java](./LeetCode/src/dynamicProgramming/673_NumberofLongestIncreasingSubsequence.java)||
 
 ### Greedy
 
