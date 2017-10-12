@@ -63,4 +63,11 @@ public class _155_MinStack {
 	public int getMin() {
 		return min;
 	}
+
+	public static void main(String[] args) {
+		_155_MinStack t = new _155_MinStack();
+		t.push(3); // stack[2147483647, 3]
+		t.push(2); // stack[2147483647, 3, 3, 2]
+		t.pop(); // stack[2147483647, 3]
+	}
 }
