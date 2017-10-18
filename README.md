@@ -144,6 +144,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./LeetCode/src/bitManipulation/_461_HammingDistance.java)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./LeetCode/src/bitManipulation/_476_NumberComplement.java)|Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](./LeetCode/src/bitManipulation/_447_TotalHammingDistance.java)|Medium|
+|693|[Binary Number with Alternating Bits]() | [Java](./LeetCode/src/bitManipulation/_693_BinaryNumberwithAlternatingBits.java)||
 
 ### Design
 
