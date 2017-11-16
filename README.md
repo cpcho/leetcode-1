@@ -1,5 +1,5 @@
 # LeetCode 
-![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-447%20%2F%20617-green.svg) <br />
+![Language](https://img.shields.io/badge/language-Java%20-red.svg) ![Progress](https://img.shields.io/badge/progress-450%20%2F%20641-green.svg) <br />
 The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 ## Table of Contents
@@ -161,6 +161,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |341|[Flatten Nested List Iterator]() | [Java](./LeetCode/src/design/_341_FlattenNestedListIterator.java)||
 |346|[Moving Average From Data Stream]() | [Java](./LeetCode/src/design/_346_MovingAverageFromDataStream.java)||
 |355|[Design Twitter]() | [Java](./LeetCode/src/design/_355_DesignTwitter.java)||
+|359|[Logger Rate Limiter]() | [Java](./LeetCode/src/design/_359_LoggerRateLimiter.java)||
 |380|[Insert Delete GetRandom]() | [Java](./LeetCode/src/design/_380_InsertDeleteGetRandom.java)||
 |381|[Insert Delete GetRandom Duplicates Allowed]() | [Java](./LeetCode/src/design/_381_InsertDeleteGetRandomDuplicatesAllowed.java)||
 |635|[Design Log Storage System]() | [Java](./LeetCode/src/design/_635_DesignLogStorageSystem.java)||
@@ -246,6 +247,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Java](./LeetCode/src/dynamicProgramming/_516_LongestPalindromicSubsequence.java)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./LeetCode/src/dynamicProgramming/_523_ContinuousSubarraySum.java)|Medium|
 |673|[Number of Longest Increasing Subsequence]() | [Java](./LeetCode/src/dynamicProgramming/673_NumberofLongestIncreasingSubsequence.java)||
+|718|[Maximum Length of Repeated Subarray]() | [Java](./LeetCode/src/dynamicProgramming/_718_MaximumLengthofRepeatedSubarray.java)||
 
 ### Greedy
 
