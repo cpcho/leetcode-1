@@ -292,6 +292,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |575|[Distribute Candies]() | [Java](./LeetCode/src/hashTable/_575_DistributeCandies.java)||
 |594|[Longest Harmonious Subsequence]() | [Java](./LeetCode/src/hashTable/_594_LongestHarmoniousSubsequence.java)||
 |599|[Minimum Index Sum Of Two Lists]() | [Java](./LeetCode/src/hashTable/_599_MinimumIndexSumOfTwoLists.java)||
+|729|[My Calendar I]() | [Java](./LeetCode/src/hashTable/_729_MyCalendarI.java)||
 
 ### Heap
 
@@ -359,6 +360,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |592|[Fraction Addition And Subtraction]() | [Java](./LeetCode/src/math/_592_FractionAdditionAndSubtraction.java)||
 |598|[Range Addition II]() | [Java](./LeetCode/src/math/_598_RangeAdditionII.java)||
 |633|[Sum Of Square Numbers]() | [Java](./LeetCode/src/math/_633_SumOfSquareNumbers.java)||
+|728|[Self Dividing Numbers]() | [Java](./LeetCode/src/math/_728_SelfDividingNumbers.java)||
 
 ### Queue
 
