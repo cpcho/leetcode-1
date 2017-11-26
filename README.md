@@ -380,6 +380,8 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./LeetCode/src/sort/_349_IntersectionOfTwoArrays.java)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./LeetCode/src/sort/_350_IntersectionOfTwoArraysII.java)|Easy|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) | [Java](./LeetCode/src/sort/_524_Longest_WordInDictionarytTroughDeleting.java)|Medium|
+||[Quick Sort]() | [Java](./LeetCode/src/sort/QuickSort.java)||
+||[Merge Sort]() | [Java](./LeetCode/src/sort/MergeSort.java)||
 
 ### String
 
