@@ -49,6 +49,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 |311|[Sparse Matrix Multiplication]() | [Java](./LeetCode/src/array/_311_SparseMatrixMultiplication.java)||
 |370|[Range Addition]() | [Java](./LeetCode/src/array/_370_RangeAddition.java)|Medium|
 |414|[Third Maximum Number]() | [Java](./LeetCode/src/array/_414_ThirdMaximumNumber.java)|Easy|
+|422|[Valid Word Square]() | [Java](./LeetCode/src/array/_422_ValidWordSquare.java.java)||
 |442|[Find All Duplicates In An Array]() | [Java](./LeetCode/src/array/_442_FindAllDuplicatesInAnArray.java)|Medium|
 |448|[Find All Numbers Disappeared In An Array]() | [Java](./LeetCode/src/array/_448_FindAllNumbersDisappearedInAnArray.java)|Easy|
 |463|[Island Perimeter]() | [Java](./LeetCode/src/array/_463_IslandPerimeter.java)||
@@ -72,6 +73,8 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |22|[Generate Parentheses]() | [Java](./LeetCode/src/backtracking/_022_GenerateParentheses.java)||
+|46|[Permuations]() | [Java](./LeetCode/src/backtracking/_046_Permuations.java)||
+|47|[Permutations II]() | [Java](./LeetCode/src/backtracking/_047_PermutationsII.java)||
 |51|[N Queues]() | [Java](./LeetCode/src/backtracking/_051_NQueues.java)||
 |52|[N Queues II]() | [Java](./LeetCode/src/backtracking/_052_NQueuesII.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Java](./LeetCode/src/backtracking/_079_WordSearch.java)|Medium|
