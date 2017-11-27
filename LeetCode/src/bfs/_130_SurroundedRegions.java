@@ -4,31 +4,43 @@ import java.util.*;
 
 /**
  * 
- * Problem: Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.
-A region is captured by flipping all 'O's into 'X's in that surrounded region.
-
-For example,
-X X X X
-X O O X
-X X O X
-X O X X
-After running your function, the board should be:
-X X X X
-X X X X
-X X X X
-X O X X
-
- * Algorithm:  
- * 1.starts with all the 'O' on the edges. mark '+'
- * 2.change all o to x,  all + to o
- *
- * Time Complexity: 
- * Space Complexity:
+ * Problem:
  * 
+ * Given a 2D board containing 'X' and 'O' (the letter O), capture all regions
+ * surrounded by 'X'. A region is captured by flipping all 'O's into 'X's in
+ * that surrounded region.
+ * 
+ * For example,
+ * 
+ * X X X X
+ * 
+ * X O O X
+ * 
+ * X X O X
+ * 
+ * X O X X
+ * 
+ * After running your function, the board should be:
+ * 
+ * X X X X
+ * 
+ * X X X X
+ * 
+ * X X X X
+ * 
+ * X O X X
+ * 
+ * Algorithm:
+ * 
+ * 1.starts with all the 'O' on the edges. mark '+'
+ * 
+ * 2.change all o to x, all + to o
+ *
  */
 
 public class _130_SurroundedRegions {
 	private final int[] DIRECTIONS = { 0, 1, 0, -1, 0 };
+
 	public void solve(char[][] board) {
 		if (board == null || board.length == 0) {
 			return;

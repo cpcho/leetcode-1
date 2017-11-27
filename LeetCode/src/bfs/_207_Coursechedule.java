@@ -4,8 +4,9 @@ import java.util.*;
 
 /**
  * 
- * Problem: There are a total of n courses you have to take, labeled from 0 to n
- * - 1.
+ * Problem:
+ * 
+ * There are a total of n courses you have to take, labeled from 0 to n - 1.
  * 
  * Some courses may have prerequisites, for example to take course 0 you have to
  * first take course 1, which is expressed as a pair: [0,1]
@@ -26,10 +27,17 @@ import java.util.*;
  * adjacency matrices. Read more about how a graph is represented. You may
  * assume that there are no duplicate edges in the input prerequisites.
  * 
- * Algorithm: 1. put all the courses do not have any pre in the queue. 2. every
- * course uses a list to store all the courses that take the cur course as a
- * pre. 3. when a course is finished, the indegree of the pointed courses should
- * minus 1 4. If there is any circle in the graph, the count will not equal to
+ * Algorithm:
+ * 
+ * 1. put all the courses do not have any pre in the queue.
+ * 
+ * 2. every course uses a list to store all the courses that take the cur course
+ * as a pre.
+ * 
+ * 3. when a course is finished, the indegree of the pointed courses should
+ * minus 1
+ * 
+ * 4. If there is any circle in the graph, the count will not equal to
  * numCourses.
  *
  */

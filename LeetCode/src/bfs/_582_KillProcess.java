@@ -37,7 +37,8 @@ import java.util.Queue;
  */
 public class _582_KillProcess {
 	public List<Integer> killProcess(List<Integer> pid, List<Integer> ppid, int kill) {
-		Map<Integer, List<Integer>> map = new HashMap<>();
+		Map<Integer, List<Integer>> map = new HashMap<>(); // key: parent;
+															// value: children
 		for (int i = 0; i < ppid.size(); i++) {
 			if (ppid.get(i) > 0) {
 				List<Integer> list = map.getOrDefault(ppid.get(i), new ArrayList<Integer>());

@@ -7,11 +7,10 @@ import java.util.Queue;
 
 /**
  * 
- * Problem: You need to find the largest value in each row of a binary tree.
+ * Problem:
  * 
- * Time Complexity:
+ * You need to find the largest value in each row of a binary tree.
  * 
- * Space Complexity:
  */
 public class _515_FindLargestValueinEachTreeRow {
 	public List<Integer> largestValues(TreeNode root) {

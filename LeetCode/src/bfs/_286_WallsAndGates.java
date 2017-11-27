@@ -5,8 +5,9 @@ import java.util.Queue;
 
 /**
  * 
- * Problem: You are given a m x n 2D grid initialized with these three possible
- * values.
+ * Problem:
+ * 
+ * You are given a m x n 2D grid initialized with these three possible values.
  * 
  * 1. -1 - A wall or an obstacle.
  * 

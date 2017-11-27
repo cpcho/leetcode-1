@@ -5,12 +5,10 @@ import java.util.Queue;
 
 /**
  * 
- * Problem: Given a binary tree, find the leftmost value in the last row of the
- * tree.
+ * Problem:
  * 
- * Time Complexity:
+ * Given a binary tree, find the leftmost value in the last row of the tree.
  * 
- * Space Complexity:
  */
 public class _513_FindBottomLeftTreeValue {
 	public int findBottomLeftValue(TreeNode root) {
@@ -23,8 +21,6 @@ public class _513_FindBottomLeftTreeValue {
 		while (!queue.isEmpty()) {
 			int size = queue.size();
 			res = queue.peek().val;
-			// remove all the node in the current row and 
-			//add all the children in the next row
 			for (int i = 0; i < size; i++) {
 				TreeNode tmp = queue.poll();
 				if (tmp.left != null) {
