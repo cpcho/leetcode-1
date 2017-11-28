@@ -35,7 +35,7 @@ public class _090_SubsetsII {
 		result.add(new ArrayList<Integer>(list));
 		for (int i = startIndex; i < num.length; i++) {
 			// new added remove duplicates
-			if (i != 0 && num[i] == num[i - 1] && i > startIndex) {
+			if (i > startIndex && num[i] == num[i - 1]) {
 				continue;
 			}
 			list.add(num[i]);
