@@ -9,9 +9,11 @@ package dfs;
  * 
  * Note: You may assume k is always valid, 1 ≤ k ≤ BST's total elements.
  * 
- * Follow up: What if the BST is modified (insert/delete operations) often and
- * you need to find the res smallest frequently? How would you optimize the
- * kthSmallest routine?
+ * Follow up:
+ * 
+ * What if the BST is modified (insert/delete operations) often and you need to
+ * find the res smallest frequently? How would you optimize the kthSmallest
+ * routine?
  *
  */
 public class _230_KthSmallestElement {

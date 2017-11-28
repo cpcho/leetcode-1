@@ -2,8 +2,10 @@ package dfs;
 
 /**
  * 
- * Problem: Given an array where elements are sorted in ascending order, convert
- * it to a height balanced BST.
+ * Problem:
+ * 
+ * Given an array where elements are sorted in ascending order, convert it to a
+ * height balanced BST.
  *
  */
 public class _108_ConvertSortedArrayToBinarySearchTree {

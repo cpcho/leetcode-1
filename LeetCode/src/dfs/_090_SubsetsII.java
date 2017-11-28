@@ -6,23 +6,17 @@ import java.util.List;
 
 /**
  * 
- * @author chengfeili 
- * Jun 17, 2017 3:26:30 PM
+ * Problem:
  * 
- *         Problem: Given a collection of integers that might contain
- *         duplicates, nums, return all possible subsets.
+ * Given a collection of integers that might contain duplicates, nums, return
+ * all possible subsets.
  * 
- *         Note: The solution set must not contain duplicate subsets.
+ * Note: The solution set must not contain duplicate subsets.
  * 
- *         For example, If nums = [1,2,2], a solution is:
+ * For example, If nums = [1,2,2], a solution is:
  * 
- *         [ [2], [1], [1,2,2], [2,2], [1,2], [] ]
+ * [ [2], [1], [1,2,2], [2,2], [1,2], [] ]
  *
- *         Solution:
- * 
- *         Time Complexity:
- * 
- *         Space Complexity:
  *
  */
 public class _090_SubsetsII {

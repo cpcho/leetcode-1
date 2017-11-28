@@ -2,8 +2,10 @@ package dfs;
 
 /**
  * 
- * Problem: Given a singly linked list where elements are sorted in ascending
- * order, convert it to a height balanced BST.
+ * Problem:
+ * 
+ * Given a singly linked list where elements are sorted in ascending order,
+ * convert it to a height balanced BST.
  *
  */
 public class _109_ConvertSortedListToBinarySearchTree {

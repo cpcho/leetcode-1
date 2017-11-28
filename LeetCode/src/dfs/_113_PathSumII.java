@@ -5,8 +5,10 @@ import java.util.List;
 
 /**
  * 
- * Problem: Given a binary tree and a sum, find all root-to-leaf paths where
- * each path's sum equals the given sum.
+ * Problem:
+ * 
+ * Given a binary tree and a sum, find all root-to-leaf paths where each path's
+ * sum equals the given sum.
  *
  */
 public class _113_PathSumII {

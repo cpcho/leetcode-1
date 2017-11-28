@@ -5,7 +5,9 @@ import java.util.List;
 
 /**
  * 
- * Problem: Given a binary tree, return all root-to-leaf paths.
+ * Problem:
+ * 
+ * Given a binary tree, return all root-to-leaf paths.
  * 
  * For example, given the following binary tree:
  * 
@@ -41,7 +43,7 @@ public class _257_BinaryTreePaths {
 			sb.append("->");
 			sb.append(root.right.val);
 			helper(root.right, res, sb);
-			//sb.setLength(len);
+			// sb.setLength(len);
 		}
 	}
 }

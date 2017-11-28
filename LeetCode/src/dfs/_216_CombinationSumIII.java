@@ -5,34 +5,27 @@ import java.util.List;
 
 /**
  * 
- * @author chengfeili 
- * Jun 17, 2017 4:23:05 PM
+ * Problem:
  * 
- *         Problem: Find all possible combinations of k numbers that add up to a
- *         number n, given that only numbers from 1 to 9 can be used and each
- *         combination should be a unique set of numbers.
+ * Find all possible combinations of k numbers that add up to a number n, given
+ * that only numbers from 1 to 9 can be used and each combination should be a
+ * unique set of numbers.
  * 
- *         Example 1:
+ * Example 1:
  * 
- *         Input: k = 3, n = 7
+ * Input: k = 3, n = 7
  * 
- *         Output:
+ * Output:
  * 
- *         [[1,2,4]]
+ * [[1,2,4]]
  * 
- *         Example 2:
+ * Example 2:
  * 
- *         Input: k = 3, n = 9
+ * Input: k = 3, n = 9
  * 
- *         Output:
+ * Output:
  * 
- *         [[1,2,6], [1,3,5], [2,3,4]]
- *
- *         Solution:
- * 
- *         Time Complexity:
- * 
- *         Space Complexity:
+ * [[1,2,6], [1,3,5], [2,3,4]]
  *
  */
 public class _216_CombinationSumIII {

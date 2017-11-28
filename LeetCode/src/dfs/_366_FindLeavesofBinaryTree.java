@@ -5,8 +5,10 @@ import java.util.List;
 
 /**
  * 
- * Problem: Given a binary tree, collect a tree's nodes as if you were doing
- * this: Collect and remove all leaves, repeat until the tree is empty.
+ * Problem:
+ * 
+ * Given a binary tree, collect a tree's nodes as if you were doing this:
+ * Collect and remove all leaves, repeat until the tree is empty.
  * 
  * Example: Given binary tree
  * 

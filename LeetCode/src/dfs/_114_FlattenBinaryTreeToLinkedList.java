@@ -2,7 +2,9 @@ package dfs;
 
 /**
  * 
- * Problem: Given a binary tree, flatten it to a linked list in-place.
+ * Problem:
+ * 
+ * Given a binary tree, flatten it to a linked list in-place.
  *
  */
 public class _114_FlattenBinaryTreeToLinkedList {
