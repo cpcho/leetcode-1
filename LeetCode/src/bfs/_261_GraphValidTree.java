@@ -26,8 +26,13 @@ import java.util.Set;
  * Given n = 5 and edges = [[0, 1], [1, 2], [2, 3], [1, 3], [1, 4]], return
  * false.
  *
- * Solution: Graph: 1. n nodes and (n - 1) edges; 2. all nodes are connected.
- * --> Tree
+ * Solution:
+ * 
+ * Graph:
+ * 
+ * 1. n nodes and (n - 1) edges;
+ * 
+ * 2. all nodes are connected. --> Tree
  *
  */
 public class _261_GraphValidTree {
