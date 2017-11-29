@@ -26,7 +26,9 @@ package array;
  * Answer: 16 Explanation: The perimeter is the 16 yellow stripes in the image
  * below:
  *
- * Solution: count the number of islands n1 count the number of neighbors in two
+ * Solution:
+ * 
+ * count the number of islands n1 count the number of neighbors in two
  * directions right and down to avoid repeat. n2 n1 * 4 - n2 * 2
  */
 public class _463_IslandPerimeter {

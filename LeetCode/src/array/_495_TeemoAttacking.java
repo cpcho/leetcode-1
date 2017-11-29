@@ -30,10 +30,12 @@ package array;
  * Teemo's attacking time series and his poisoning time duration per attacking
  * are non-negative integers, which won't exceed 10,000,000.
  *
- * Solution: For each begin followed by t If t is within previous duration
- * [begin, begin + duration] then increase total by t - begin If t in out of
- * previous duration [begin, begin + duration] then increase total by duration
- * In both cases update begin to the new begin time t
+ * Solution:
+ * 
+ * For each begin followed by t If t is within previous duration [begin, begin +
+ * duration] then increase total by t - begin If t in out of previous duration
+ * [begin, begin + duration] then increase total by duration In both cases
+ * update begin to the new begin time t
  */
 public class _495_TeemoAttacking {
 	public int findPoisonedDuration(int[] timeSeries, int duration) {
