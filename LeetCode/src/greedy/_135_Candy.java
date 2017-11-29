@@ -4,8 +4,10 @@ import java.util.Arrays;
 
 /**
  * 
- * Problem: There are N children standing in a line. Each child is assigned a
- * rating value.
+ * Problem:
+ * 
+ * There are N children standing in a line. Each child is assigned a rating
+ * value.
  * 
  * You are giving candies to these children subjected to the following
  * requirements:
@@ -38,10 +40,6 @@ public class _135_Candy {
 				right2left[i] = right2left[i + 1] + 1;
 			}
 		}
-
-		System.out.println(Arrays.toString(left2right));
-
-		System.out.println(Arrays.toString(right2left));
 		int res = 0;
 		for (int i = 0; i < len; i++) {
 			res += Math.max(left2right[i], right2left[i]);
