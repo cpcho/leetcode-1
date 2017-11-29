@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
+ * Problem:
  * 
  * Given a collection of numbers that might contain duplicates, return all
  * possible unique permutations.

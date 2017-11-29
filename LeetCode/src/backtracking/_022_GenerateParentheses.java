@@ -14,8 +14,9 @@ import java.util.List;
  * 
  * [ "((()))", "(()())", "(())()", "()(())", "()()()" ]
  * 
- * Solution: DFS, open and close variable. open < (number Of pairs) && close <
- * open
+ * Solution:
+ * 
+ * DFS, open and close variable. open < (number Of pairs) && close < open
  */
 public class _022_GenerateParentheses {
 	public List<String> generateParenthesis(int n) {
