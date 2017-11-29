@@ -2,9 +2,11 @@ package math;
 
 /**
  * 
- * Problem: Given a non-empty integer array of size n, find the minimum number
- * of moves required to make all array elements equal, where a move is
- * incrementing n - 1 elements by 1.
+ * Problem:
+ * 
+ * Given a non-empty integer array of size n, find the minimum number of moves
+ * required to make all array elements equal, where a move is incrementing n - 1
+ * elements by 1.
  * 
  * Example:
  * 
@@ -19,8 +21,11 @@ package math;
  * 
  * 
  * Solution: Assume there are m moves, equal number is x;
+ * 
  * 1. sum + m * (len - 1) = x * len
+ * 
  * 2. x = minNum + m
+ * 
  * So m = sum - minNum * len
  */
 public class _453_MinimumMovesToEqualArrayElements {

@@ -4,7 +4,9 @@ import java.util.Arrays;
 
 /**
  * 
- * Problem: Given a string representing an expression of fraction addition and
+ * Problem:
+ * 
+ * Given a string representing an expression of fraction addition and
  * subtraction, you need to return the calculation result in string format. The
  * final result should be irreducible fraction. If your final result is an
  * integer, say 2, you need to change it to the format of fraction that has

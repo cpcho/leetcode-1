@@ -2,8 +2,10 @@ package math;
 
 /**
  * 
- * Problem: Given a non-negative integer num, repeatedly add all its digits
- * until the result has only one digit.
+ * Problem:
+ * 
+ * Given a non-negative integer num, repeatedly add all its digits until the
+ * result has only one digit.
  * 
  * For example:
  * 
@@ -23,9 +25,9 @@ public class _258_AddDigits {
 
 	/**
 	 * 
-	 * input:  0 1 2 3 4 5 6 7 8 9 10 11 12 13
+	 * input: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
 	 * 
-	 * output: 0 1 2 3 4 5 6 7 8 9  1  2  3  4 5 6 7 8 9 1 2 3 ....
+	 * output: 0 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 ....
 	 * 
 	 */
 	public int addDigits2(int num) {

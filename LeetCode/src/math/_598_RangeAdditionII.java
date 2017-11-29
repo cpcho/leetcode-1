@@ -2,7 +2,9 @@ package math;
 
 /**
  * 
- * Problem: Given an m * n matrix M initialized with all 0's and several update
+ * Problem:
+ * 
+ * Given an m * n matrix M initialized with all 0's and several update
  * operations.
  * 
  * Operations are represented by a 2D array, and each operation is represented

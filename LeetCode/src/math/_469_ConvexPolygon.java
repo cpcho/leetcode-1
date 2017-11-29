@@ -4,8 +4,10 @@ import java.util.List;
 
 /**
  * 
- * Problem: Given a list of points that form a polygon when joined sequentially,
- * find if this polygon is convex (Convex polygon definition).
+ * Problem:
+ * 
+ * Given a list of points that form a polygon when joined sequentially, find if
+ * this polygon is convex (Convex polygon definition).
  * 
  * Note:
  * 
