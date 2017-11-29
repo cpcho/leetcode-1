@@ -7,8 +7,10 @@ import java.util.Queue;
 
 /**
  * 
- * Problem: Given a string, sort it in decreasing order based on the frequency
- * of characters.
+ * Problem:
+ * 
+ * Given a string, sort it in decreasing order based on the frequency of
+ * characters.
  * 
  * Example 1:
  * 

@@ -10,8 +10,10 @@ import java.util.Queue;
  * 
  * Problem:
  *
- * Solution: Sweep line + Max-Heap 
- * 1. sort the buildings 
+ * Solution: Sweep line + Max-Heap
+ * 
+ * 1. sort the buildings
+ * 
  * 2. max-heap iteration
  * 
  */
