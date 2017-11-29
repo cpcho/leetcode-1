@@ -4,7 +4,9 @@ import java.util.Arrays;
 
 /**
  * 
- * Problem: Given two strings s and t, determine if they are isomorphic.
+ * Problem:
+ * 
+ * Given two strings s and t, determine if they are isomorphic.
  * 
  * Two strings are isomorphic if the characters in s can be replaced to get t.
  * 

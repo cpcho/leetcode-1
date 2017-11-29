@@ -7,8 +7,10 @@ import java.util.Map;
 
 /**
  * 
- * Problem: Suppose Andy and Doris want to choose a restaurant for dinner, and
- * they both have a list of favorite restaurants represented by strings.
+ * Problem:
+ * 
+ * Suppose Andy and Doris want to choose a restaurant for dinner, and they both
+ * have a list of favorite restaurants represented by strings.
  * 
  * You need to help them find out their common interest with the least list
  * index sum. If there is a choice tie between answers, output all of them with
@@ -34,10 +36,9 @@ import java.util.Map;
  * Explanation: The restaurant they both like and have the least index sum is
  * "Shogun" with index sum 1 (0+1).
  * 
- * Note: The length of both lists will be in the range of [1, 1000].
- * The length of strings in both lists will be in the range of [1, 30].
- * The index is starting from 0 to the list length minus 1.
- * No duplicates in both lists.
+ * Note: The length of both lists will be in the range of [1, 1000]. The length
+ * of strings in both lists will be in the range of [1, 30]. The index is
+ * starting from 0 to the list length minus 1. No duplicates in both lists.
  *
  */
 public class _599_MinimumIndexSumOfTwoLists {

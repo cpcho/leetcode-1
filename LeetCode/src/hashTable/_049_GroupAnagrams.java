@@ -9,7 +9,9 @@ import java.util.Map;
 
 /**
  * 
- * Problem: Given an array of strings, group anagrams together.
+ * Problem:
+ * 
+ * Given an array of strings, group anagrams together.
  * 
  * For example, given: ["eat", "tea", "tan", "ate", "nat", "bat"],
  * 

@@ -6,10 +6,12 @@ import java.util.Map;
 
 /**
  * 
- * Problem: There is a brick wall in front of you. The wall is rectangular and
- * has several rows of bricks. The bricks have the same height but different
- * width. You want to draw a vertical line from the top to the bottom and cross
- * the least bricks.
+ * Problem:
+ * 
+ * There is a brick wall in front of you. The wall is rectangular and has
+ * several rows of bricks. The bricks have the same height but different width.
+ * You want to draw a vertical line from the top to the bottom and cross the
+ * least bricks.
  * 
  * The brick wall is represented by a list of rows. Each row is a list of
  * integers representing the width of each brick in this row from left to right.

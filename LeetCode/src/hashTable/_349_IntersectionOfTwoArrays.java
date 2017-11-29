@@ -5,15 +5,11 @@ import java.util.Set;
 
 /**
  * 
- * Problem: Given two arrays, write a function to compute their intersection.
- * Example: Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2]. Note: Each
- * element in the result must be unique. The result can be in any order.
+ * Problem:
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
+ * Given two arrays, write a function to compute their intersection. Example:
+ * Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2]. Note: Each element in
+ * the result must be unique. The result can be in any order.
  *
  */
 public class _349_IntersectionOfTwoArrays {

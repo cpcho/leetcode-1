@@ -5,11 +5,11 @@ import java.util.Map;
 
 /**
  * 
- * Problem: Given n points on a 2D plane, find the maximum number of points that
- * lie on the same straight line.
+ * Problem:
+ * 
+ * Given n points on a 2D plane, find the maximum number of points that lie on
+ * the same straight line.
  *
- * 
- * 
  * Solution: A line is determined by two factors,say y=ax+b
  * 
  * If two points(x1,y1) (x2,y2) are on the same line(Of course).

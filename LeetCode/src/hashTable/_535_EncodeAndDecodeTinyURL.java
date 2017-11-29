@@ -5,7 +5,9 @@ import java.util.List;
 
 /**
  * 
- * Problem: TinyURL is a URL shortening service where you enter a URL such as
+ * Problem:
+ * 
+ * TinyURL is a URL shortening service where you enter a URL such as
  * https://leetcode.com/problems/design-tinyurl and it returns a short URL such
  * as http://tinyurl.com/4e9iAk.
  * 

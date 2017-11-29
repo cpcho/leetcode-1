@@ -2,8 +2,9 @@ package hashTable;
 
 /**
  * 
- * Problem: Count the number of prime numbers less than a non-negative number,
- * n.
+ * Problem:
+ * 
+ * Count the number of prime numbers less than a non-negative number, n.
  * 
  */
 public class _204_CountPrimes {

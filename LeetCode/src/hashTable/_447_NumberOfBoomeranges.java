@@ -5,9 +5,11 @@ import java.util.Map;
 
 /**
  * 
- * Problem: Given n points in the plane that are all pairwise distinct, a
- * "boomerang" is a tuple of points (i, j, k) such that the distance between i
- * and j equals the distance between i and k (the order of the tuple matters).
+ * Problem:
+ * 
+ * Given n points in the plane that are all pairwise distinct, a "boomerang" is
+ * a tuple of points (i, j, k) such that the distance between i and j equals the
+ * distance between i and k (the order of the tuple matters).
  * 
  * Find the number of boomerangs. You may assume that n will be at most 500 and
  * coordinates of points are all in the range [-10000, 10000] (inclusive).
@@ -27,7 +29,7 @@ public class _447_NumberOfBoomeranges {
 		}
 		int res = 0;
 		for (int i = 0; i < points.length; i++) {
-			//distance -> count
+			// distance -> count
 			Map<Integer, Integer> map = new HashMap<>();
 			for (int j = 0; j < points.length; j++) {
 				if (i == j) {
