@@ -2,8 +2,10 @@ package linkedlist;
 
 /**
  * 
- * Problem: Given a linked list, remove the nth node from the end of list and
- * return its head.
+ * Problem:
+ * 
+ * Given a linked list, remove the nth node from the end of list and return its
+ * head.
  * 
  * For example,
  * 
@@ -12,12 +14,6 @@ package linkedlist;
  * After removing the second node from the end, the linked list becomes
  * 1->2->3->5.
  * 
- * Algorithm:
- * 
- * Time Complexity:
- *
- * Spcace Complexity:
- *
  */
 public class _019_RemoveNthNodeFromEndOfList {
 	public ListNode removeNthFromEnd(ListNode head, int n) {

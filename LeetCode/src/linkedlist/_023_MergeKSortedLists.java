@@ -6,15 +6,11 @@ import java.util.Queue;
 
 /**
  * 
- * Problem: Merge k sorted linked lists and return it as one sorted list.
- * Analyze and describe its complexity.
+ * Problem:
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
- *
+ * Merge k sorted linked lists and return it as one sorted list. Analyze and
+ * describe its complexity.
+ * 
  */
 public class _023_MergeKSortedLists {
 	private Comparator<ListNode> ListNodeComparator = new Comparator<ListNode>() {

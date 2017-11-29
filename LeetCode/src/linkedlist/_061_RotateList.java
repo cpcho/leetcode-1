@@ -2,18 +2,20 @@ package linkedlist;
 
 /**
  * 
- * Problem: Given a list, rotate the list to the right by k places, where k is
- * non-negative.
- * For example: Given 1->2->3->4->5->NULL and k = 2, return 4->5->1->2->3->NULL.
+ * Problem:
  * 
- * Algorithm: 
- *  1. find the length, mod
- *  2. right -> k steps, left and right -> (until right is the end)
- *  3. left.next is the new head.
+ * Given a list, rotate the list to the right by k places, where k is
+ * non-negative. For example: Given 1->2->3->4->5->NULL and k = 2, return
+ * 4->5->1->2->3->NULL.
  * 
- * Time Complexity:
- *
- * Space Complexity:
+ * Algorithm:
+ * 
+ * 1. find the length, mod
+ * 
+ * 2. right -> k steps, left and right -> (until right is the end)
+ * 
+ * 3. left.next is the new head.
+ * 
  */
 public class _061_RotateList {
 	public ListNode rotateRight(ListNode head, int k) {
