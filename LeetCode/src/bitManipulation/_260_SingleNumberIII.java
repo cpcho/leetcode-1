@@ -2,9 +2,11 @@ package bitManipulation;
 
 /**
  * 
- * Problem: Given an array of numbers nums, in which exactly two elements appear
- * only once and all the other elements appear exactly twice. Find the two
- * elements that appear only once.
+ * Problem:
+ * 
+ * Given an array of numbers nums, in which exactly two elements appear only
+ * once and all the other elements appear exactly twice. Find the two elements
+ * that appear only once.
  * 
  * For example:
  * 
@@ -28,7 +30,6 @@ public class _260_SingleNumberIII {
 		for (int num : nums) {
 			diff ^= num;
 		}
-		System.out.println(diff);
 		// get the last bit 1, 17 -> 1; 16 -> 16
 		diff &= ~(diff - 1);
 		// Second pass, divide all the numbers into two groups. one
