@@ -7,8 +7,10 @@ import java.util.Random;
 
 /**
  * 
- * Problem:Design a data structure that supports all following operations in
- * average O(1) time.
+ * Problem:
+ * 
+ * Design a data structure that supports all following operations in average
+ * O(1) time.
  * 
  * insert(val): Inserts an item val to the set if not already present.
  * 
@@ -59,10 +61,10 @@ public class _380_InsertDeleteGetRandom {
 	HashMap<Integer, Integer> map;
 	Random rand;
 
-	public _380_InsertDeleteGetRandom(){
+	public _380_InsertDeleteGetRandom() {
 		nums = new ArrayList<>();
 		map = new HashMap<>();
-        rand = new Random();
+		rand = new Random();
 	}
 
 	public boolean insert(int val) {

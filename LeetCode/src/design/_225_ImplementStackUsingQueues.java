@@ -5,6 +5,7 @@ import java.util.Queue;
 
 public class _225_ImplementStackUsingQueues {
 	private Queue<Integer> queue = new LinkedList<>();
+
 	// Push element x onto stack.
 	public void push(int x) {
 		queue.add(x);

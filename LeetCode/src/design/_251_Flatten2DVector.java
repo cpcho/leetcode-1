@@ -5,7 +5,9 @@ import java.util.List;
 
 /**
  * 
- * Problem: Implement an iterator to flatten a 2d vector.
+ * Problem:
+ * 
+ * Implement an iterator to flatten a 2d vector.
  * 
  * For example, Given 2d vector =
  * 

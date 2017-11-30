@@ -6,7 +6,9 @@ import java.util.List;
 
 /**
  * 
- * Problem: Given two 1d vectors, implement an iterator to return their elements
+ * Problem:
+ * 
+ * Given two 1d vectors, implement an iterator to return their elements
  * alternately.
  * 
  * For example, given two 1d vectors:

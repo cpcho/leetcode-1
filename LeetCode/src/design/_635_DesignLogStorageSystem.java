@@ -7,8 +7,10 @@ import java.util.List;
 
 /**
  * 
- * Problem: You are given several logs that each log contains a unique id and
- * timestamp. Timestamp is a string that has the following format:
+ * Problem:
+ * 
+ * You are given several logs that each log contains a unique id and timestamp.
+ * Timestamp is a string that has the following format:
  * Year:Month:Day:Hour:Minute:Second, for example, 2017:01:01:23:59:59. All
  * domains are zero-padded decimal numbers.
  * 
@@ -39,9 +41,11 @@ import java.util.List;
  * 
  * retrieve("2016:01:01:01:01:01","2017:01:01:23:00:00","Hour"); // return
  * [1,2], because you need to return all logs start from 2016:01:01:01 to
- * 2017:01:01:23, where log 3 is left outside the range. Note: There will be at
- * most 300 operations of Put or Retrieve. Year ranges from [2000,2017]. Hour
- * ranges from [00,23]. Output for Retrieve has no order required.
+ * 2017:01:01:23, where log 3 is left outside the range.
+ * 
+ * Note: There will be at most 300 operations of Put or Retrieve. Year ranges
+ * from [2000,2017]. Hour ranges from [00,23]. Output for Retrieve has no order
+ * required.
  *
  */
 public class _635_DesignLogStorageSystem {

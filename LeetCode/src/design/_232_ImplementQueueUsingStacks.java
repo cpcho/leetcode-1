@@ -4,14 +4,6 @@ import java.util.Stack;
 
 /**
  * 
- * Problem:
- *
- * Solution:
- * 
- * Time Complexity:
- * 
- * Space Complexity:
- *
  */
 public class _232_ImplementQueueUsingStacks {
 	Stack<Integer> input = new Stack<>();
@@ -29,8 +21,9 @@ public class _232_ImplementQueueUsingStacks {
 
 	public int peek() {
 		if (output.isEmpty()) {
-			while (!input.isEmpty())
+			while (!input.isEmpty()) {
 				output.push(input.pop());
+			}
 		}
 		return output.peek();
 	}

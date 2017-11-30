@@ -7,7 +7,9 @@ import java.util.Map;
 
 /**
  * 
- * Problem: Design and implement a TwoSum class. It should support the following
+ * Problem:
+ * 
+ * Design and implement a TwoSum class. It should support the following
  * operations: add and find.
  * 
  * add - Add the number to an internal data structure. find - Find if there
