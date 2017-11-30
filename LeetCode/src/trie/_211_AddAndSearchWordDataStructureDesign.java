@@ -2,7 +2,7 @@ package trie;
 
 /**
  * 
- * Problem: 
+ * Problem:
  * 
  * Design a data structure that supports the following two operations:
  * 
@@ -12,14 +12,21 @@ package trie;
  * 
  * For example:
  * 
- * addWord("bad") 
- * addWord("dad") 
- * addWord("mad") 
+ * addWord("bad")
+ * 
+ * addWord("dad")
+ * 
+ * addWord("mad")
+ * 
  * search("pad") -> false
- * search("bad") -> true 
- * search(".ad") -> true 
- * search("b..") -> true Note: You
- * may assume that all words are consist of lowercase letters a-z.
+ * 
+ * search("bad") -> true
+ * 
+ * search(".ad") -> true
+ * 
+ * search("b..") -> true
+ * 
+ * Note: You may assume that all words are consist of lowercase letters a-z.
  *
  */
 public class _211_AddAndSearchWordDataStructureDesign {
@@ -74,9 +81,11 @@ public class _211_AddAndSearchWordDataStructureDesign {
 			// '.'
 			for (int i = 0; i < 26; i++) {
 				if (cur.children[i] != null) {
-					/** tricky part. should not use return helper(ch, k + 1, cur.children[i]) directly
-					 get the match. then return. if not. it will only return
-					 when it meet cur.children[i] != null
+					/**
+					 * tricky part. should not use return helper(ch, k + 1,
+					 * cur.children[i]) directly get the match. then return. if
+					 * not. it will only return when it meet cur.children[i] !=
+					 * null
 					 */
 					if (helper(ch, k + 1, cur.children[i])) {
 						return true;

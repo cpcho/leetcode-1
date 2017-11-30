@@ -17,8 +17,12 @@ import java.util.List;
  * 
  * You need to output the sentence after the replacement.
  * 
- * Example 1: Input: dict = ["cat", "bat", "rat"] sentence =
- * "the cattle was rattled by the battery" Output: "the cat was rat by the bat"
+ * Example 1:
+ * 
+ * Input: dict = ["cat", "bat", "rat"] sentence =
+ * "the cattle was rattled by the battery"
+ * 
+ * Output: "the cat was rat by the bat"
  * 
  * Note: The input will only have lower-case letters.
  * 

@@ -17,8 +17,9 @@ import java.util.List;
  * For example, Given words = ["oath","pea","eat","rain"] and board =
  * 
  * [ ['o','a','a','n'], ['e','t','a','e'], ['i','h','k','r'], ['i','f','l','v']
- * ] Return ["eat","oath"]. Note: You may assume that all inputs are consist of
- * lowercase letters a-z.
+ * ] Return ["eat","oath"].
+ * 
+ * Note: You may assume that all inputs are consist of lowercase letters a-z.
  *
  *
  */
