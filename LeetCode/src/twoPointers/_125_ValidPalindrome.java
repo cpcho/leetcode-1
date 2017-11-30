@@ -2,7 +2,9 @@ package twoPointers;
 
 /**
  * 
- * Problem: Given a string, determine if it is a palindrome, considering only
+ * Problem:
+ * 
+ * Given a string, determine if it is a palindrome, considering only
  * alphanumeric characters and ignoring cases.
  * 
  * For example, "A man, a plan, a canal: Panama" is a palindrome. "race a car"
@@ -13,12 +15,6 @@ package twoPointers;
  * 
  * For the purpose of this problem, we define empty string as valid palindrome.
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
- *
  */
 public class _125_ValidPalindrome {
 	public boolean isPalindrome(String s) {

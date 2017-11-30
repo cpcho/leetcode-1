@@ -6,9 +6,10 @@ import java.util.List;
 
 /**
  * 
- * Problem: Given an array S of n integers, are there elements a, b, c in S such
- * that a + b + c = 0? Find all unique triplets in the array which gives the sum
- * of zero.
+ * Problem:
+ * 
+ * Given an array S of n integers, are there elements a, b, c in S such that a +
+ * b + c = 0? Find all unique triplets in the array which gives the sum of zero.
  * 
  * Note: The solution set must not contain duplicate triplets.
  * 
@@ -16,12 +17,6 @@ import java.util.List;
  * 
  * A solution set is: [ [-1, 0, 1], [-1, -1, 2] ]
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
- *
  */
 public class _015_3Sum {
 	public static List<List<Integer>> threeSum(int[] nums) {

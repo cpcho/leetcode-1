@@ -2,17 +2,13 @@ package twoPointers;
 
 /**
  * 
- * Problem: Implement strStr().
+ * Problem:
+ * 
+ * Implement strStr().
  * 
  * Returns the index of the first occurrence of needle in haystack, or -1 if
  * needle is not part of haystack.
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
- *
  */
 public class _028_ImplementstrStr {
 	public int strStr(String source, String target) {

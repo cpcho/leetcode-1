@@ -2,18 +2,17 @@ package twoPointers;
 
 /**
  * 
- * Problem: Write a function that takes a string as input and reverse only the
- * vowels of a string.
+ * Problem:
+ * 
+ * Write a function that takes a string as input and reverse only the vowels of
+ * a string.
+ * 
  * Example 1: Given s = "hello", return "holle".
+ * 
  * Example 2: Given s = "leetcode", return "leotcede".
+ * 
  * Note: The vowels does not include the letter "y".
  * 
- * Algorithm:
- *
- * Time Complexity:
- *
- * Space Complexity:
- *
  */
 public class _345_ReverseVowelsOfAString {
 	public String reverseVowels(String s) {

@@ -5,8 +5,10 @@ import java.util.Map;
 
 /**
  * 
- * Problem: Given a string, find the length of the longest substring without
- * repeating characters.
+ * Problem:
+ * 
+ * Given a string, find the length of the longest substring without repeating
+ * characters.
  * 
  * Examples:
  * 
@@ -20,7 +22,9 @@ import java.util.Map;
  */
 
 public class _003_LongestSubstringWithoutRepeatingCharacters {
-	// Method 1
+	/**
+	 * Method 1
+	 */
 	public int lengthOfLongestSubstring(String s) {
 		if (s == null || s.length() == 0) {
 			return 0;
@@ -39,7 +43,9 @@ public class _003_LongestSubstringWithoutRepeatingCharacters {
 		return max;
 	}
 
-	// Method 1
+	/**
+	 * Method 2
+	 */
 	public int lengthOfLongestSubstring1(String s) {
 		boolean[] map = new boolean[256];
 		int max = 0;
@@ -54,5 +60,4 @@ public class _003_LongestSubstringWithoutRepeatingCharacters {
 		}
 		return max;
 	}
-
 }
