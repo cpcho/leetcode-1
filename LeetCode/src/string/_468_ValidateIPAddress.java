@@ -2,8 +2,10 @@ package string;
 
 /**
  * 
- * Problem: Write a function to check whether an input string is a valid IPv4
- * address or IPv6 address or neither.
+ * Problem:
+ * 
+ * Write a function to check whether an input string is a valid IPv4 address or
+ * IPv6 address or neither.
  * 
  * IPv4 addresses are canonically represented in dot-decimal notation, which
  * consists of four decimal numbers, each ranging from 0 to 255, separated by

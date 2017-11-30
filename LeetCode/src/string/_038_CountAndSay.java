@@ -2,8 +2,10 @@ package string;
 
 /**
  * 
- * Problem: The count-and-say sequence is the sequence of integers with the
- * first five terms as following:
+ * Problem:
+ * 
+ * The count-and-say sequence is the sequence of integers with the first five
+ * terms as following:
  * 
  * Note: Each term of the sequence of integers will be represented as a string.
  * 
@@ -15,30 +17,28 @@ package string;
  *
  */
 public class _038_CountAndSay {
-	public int lengthOfLastWord(String s) {
-		if (s == null || s.equals("")) {
-			return 0;
-		}
-		int len = s.length() - 1;
-		int end = len;
+	public String countAndSay(int n) {
+		StringBuilder cur = new StringBuilder("1");
+		StringBuilder pre;
 		int count = 0;
-		while (end >= 0) {
-			if (s.charAt(end) != ' ') {
-				break;
+		char say;
+		for (int i = 1; i < n; i++) {
+			pre = cur;
+			cur = new StringBuilder();
+			count = 1;
+			say = pre.charAt(0);
+			int len = pre.length();
+			for (int j = 1; j < len; j++) {
+				if (pre.charAt(j) != say) {
+					cur.append(count).append(say);
+					count = 1;
+					say = pre.charAt(j);
+				} else {
+					count++;
+				}
 			}
-			end--;
+			cur.append(count).append(say);
 		}
-		if (end == -1) { // all chars are space
-			return 0;
-		}
-		while (end >= 0) {
-			if (s.charAt(end) != ' ') {
-				count++;
-			} else {
-				return count;
-			}
-			end--;
-		}
-		return count;
+		return cur.toString();
 	}
 }

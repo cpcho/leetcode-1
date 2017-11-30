@@ -2,8 +2,10 @@ package string;
 
 /**
  * 
- * Problem: Write a function to find the longest common prefix string amongst an
- * array of strings.
+ * Problem:
+ * 
+ * Write a function to find the longest common prefix string amongst an array of
+ * strings.
  *
  */
 public class _014_LongestConmmonPrefix {

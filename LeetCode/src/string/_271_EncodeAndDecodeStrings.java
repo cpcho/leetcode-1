@@ -5,9 +5,11 @@ import java.util.List;
 
 /**
  * 
- * Problem: Design an algorithm to encode a list of strings to a string. The
- * encoded string is then sent over the network and is decoded back to the
- * original list of strings.
+ * Problem:
+ * 
+ * Design an algorithm to encode a list of strings to a string. The encoded
+ * string is then sent over the network and is decoded back to the original list
+ * of strings.
  * 
  * Machine 1 (sender) has the function:
  * 
@@ -40,10 +42,8 @@ public class _271_EncodeAndDecodeStrings {
 	}
 
 	/**
-	 * 100/absdfsd..
-	 * find the index of '/'
-	 * get the length of string
-	 * add the string to list
+	 * 100/absdfsd.. find the index of '/' get the length of string add the
+	 * string to list
 	 */
 	public List<String> decode(String s) {
 		List<String> list = new ArrayList<>();

@@ -2,12 +2,16 @@ package string;
 
 /**
  * 
- * Problem: Given two strings S and T, determine if they are both one edit
- * distance apart.
+ * Problem:
+ * 
+ * Given two strings S and T, determine if they are both one edit distance
+ * apart.
  *
  */
 public class _161_OneEditDistance {
-	// method 1
+	/**
+	 * Method 1
+	 */
 	public boolean isOneEditDistance(String s, String t) {
 		if (s == null || t == null || Math.abs(s.length() - t.length()) > 1 || s.equals(t)) {
 			return false;
@@ -57,7 +61,9 @@ public class _161_OneEditDistance {
 		return true;
 	}
 
-	// method2: Handle replace and insert in the same method;
+	/**
+	 * Method2: Handle replace and insert in the same method;
+	 */
 	public boolean isOneEditDistance2(String s1, String s2) {
 		if (s1 == null || s2 == null || s1.length() - s2.length() == 0) {
 			return false;
