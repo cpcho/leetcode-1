@@ -2,8 +2,9 @@ package sort;
 
 /**
  * 
- * Problem: Sort a linked list in O(n log n) time using constant space
- * complexity.
+ * Problem:
+ * 
+ * Sort a linked list in O(n log n) time using constant space complexity.
  *
  * Time Complexity: O(NlogN)
  * 
