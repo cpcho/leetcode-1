@@ -2,7 +2,9 @@ package dynamicProgramming;
 
 /**
  * 
- * Problem: Write a program to find the n-th ugly number.
+ * Problem:
+ * 
+ * Write a program to find the n-th ugly number.
  * 
  * Ugly numbers are positive numbers whose prime factors only include 2, 3, 5.
  * For example, 1, 2, 3, 4, 5, 6, 8, 9, 10, 12 is the sequence of the first 10
@@ -11,9 +13,12 @@ package dynamicProgramming;
  * Note that 1 is typically treated as an ugly number, and n does not exceed
  * 1690.
  * 
- * Solution:     
+ * Solution:
+ * 
  * (1) 1×2, 2×2, 3×2, 4×2, 5×2, …
+ * 
  * (2) 1×3, 2×3, 3×3, 4×3, 5×3, …
+ * 
  * (3) 1×5, 2×5, 3×5, 4×5, 5×5, …
  *
  */

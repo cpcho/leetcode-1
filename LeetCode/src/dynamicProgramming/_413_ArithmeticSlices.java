@@ -2,9 +2,11 @@ package dynamicProgramming;
 
 /**
  * 
- * Problem: A sequence of number is called arithmetic if it consists of at least
- * three elements and if the difference between any two consecutive elements is
- * the same.
+ * Problem:
+ * 
+ * A sequence of number is called arithmetic if it consists of at least three
+ * elements and if the difference between any two consecutive elements is the
+ * same.
  * 
  * For example, these are arithmetic sequence:
  * 

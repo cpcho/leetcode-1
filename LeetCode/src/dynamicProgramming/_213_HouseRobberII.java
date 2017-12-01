@@ -2,7 +2,9 @@ package dynamicProgramming;
 
 /**
  * 
- * Problem: Note: This is an extension of House Robber.
+ * Problem:
+ * 
+ * Note: This is an extension of House Robber.
  * 
  * After robbing those houses on that street, the thief has found himself a new
  * place for his thievery so that he will not get too much attention. This time,
