@@ -29,7 +29,7 @@ The accepted Java solutions and explanations to the leetcode algorithm. <br />
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./LeetCode/src/array/_001_TwoSum.java)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./LeetCode/src/array/_001_TwoSum.java), [Python](./Python/array/_001_TwoSum.py)|Easy|
 |31|[Next Permutation]() | [Java](./LeetCode/src/array/_031_NextPermutation.java)|Medium|
 |41|[First Missing Positive]() | [Java](./LeetCode/src/array/_041_FirstMissingPositive.java)|Hard|
 |48|[Rotate Image]() | [Java](./LeetCode/src/array/_048_RotateImage.java)|Medium|
